@@ -11,7 +11,7 @@
 */
 
 body {
-  padding-top: 140px;
+  padding-top: 105px;
 }
 
 h1, h2, button {
@@ -64,13 +64,14 @@ nav
   position: fixed;
   top: 0;
   z-index: 9999;
-  width: 94%;
-  padding: 3%;
+  width: calc(100% - 60px);
+  padding: 30px;
+  padding-bottom: 20px;
   background-color: #fff;
   transition: all 1s;
 }
 #nav.scrolled-nav {
-  padding: 2% 4%;
+  padding: 15px 30px;
   transition: all 1s;
 }
 
@@ -81,13 +82,19 @@ nav
   transition: all 1s;
 }
 .logo.scrolled-nav {
-  width: 150px;
+  width: 160px;
   transition: all 1s;
 }
 .headertext {
   display: inline;
   vertical-align: middle;
-  padding-left: 15px;
+  margin-left: 15px;
+  transition: all 1s;
+}
+.headertext.scrolled-nav {
+  font-size: 28px;
+  margin-left: 10px;
+  transition: all 1s;
 }
 
 .navcontainer {
@@ -95,6 +102,10 @@ nav
 }
 .kontakt {
   display: inline-block;
+}
+.kontakt.scrolled-nav {
+  font-size: 18px;
+  padding: 10px 20px;
 }
 
 #navburger {
@@ -110,6 +121,12 @@ nav
   -moz-transition: ease 1s;
   -o-transition: ease 1s;
   transition: ease 1s;
+}
+#navburger.scrolled-nav {
+  height: 38px;
+}
+#navburger span.scrolled-nav {
+  margin: 12px 30%;
 }
 
 #navburger span {
@@ -166,8 +183,11 @@ nav
 }
 
 /*----------------------------------
-maincontainer start
+maincontainer
 -----------------------------------*/
+.maincontainer {
+  margin: 0 2%;
+}
 .gridcontainer {
   margin: 0 2%;
   display: grid;
@@ -221,6 +241,27 @@ h2.brandheadline.fade {
   opacity: 1;
   transition: all 1s;
 }
+
+/*----------------------------------
+brandsite
+-----------------------------------*/
+.brandcontainer figure {
+  width: calc(50% - 5px);
+  float: left;
+
+  position: relative;
+}
+.brandimgleft {
+  margin-left: 10px;
+}
+
+.brandcontainer img {
+  width: 100%;
+}
+
+
+
+
 
 
 
