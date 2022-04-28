@@ -14,10 +14,10 @@ body {
   padding-top: 105px;
 }
 
-h1, h2, button {
+h1, h2, p, button, figure {
   color: #295CA9;
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
@@ -36,7 +36,6 @@ a {
 
 button {
   font-size: 20px;
-  font-weight: 400;
   background-color: transparent;
   background-repeat: no-repeat;
   border: solid 1px #295CA9;
@@ -54,6 +53,10 @@ button:hover {
   background-color: #295CA9;
   color: #fff;
   transition: all 0.5s;
+}
+
+figcaption {
+  font-size: 20px;
 }
 
 /*----------------------------------
@@ -149,34 +152,28 @@ nav
 #navburger span:nth-child(1) {
     top: 0px;
 }
-
 #navburger span:nth-child(2),#navburger span:nth-child(3) {
     top: 7px;
 }
-
 #navburger span:nth-child(4) {
     top: 14px;
 }
-
 #navburger.open span:nth-child(1) {
     top: 7px;
     opacity: 0;
 }
-
 #navburger.open span:nth-child(2) {
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
-
 #navburger.open span:nth-child(3) {
   -webkit-transform: rotate(-45deg);
   -moz-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
-
 #navburger.open span:nth-child(4) {
     top: 8px;
     opacity: 0;
@@ -211,13 +208,10 @@ maincontainer
   background-color: #CFEEFA;
   transition: all 1s;
 }
-
 .brandimg.fadeimg {
   filter: brightness(0.5);
   transform: scale(1.2);
-
 }
-
 .item1 { grid-row: 1 / 4;}
 .item2 { grid-row: 1 / 3;}
 .item3 { grid-row: 1 / 4;}
@@ -243,7 +237,7 @@ h2.brandheadline.fade {
 }
 
 /*----------------------------------
-brandsite
+brand-site
 -----------------------------------*/
 .brandcontainer figure {
   width: calc(50% - 5px);
@@ -259,8 +253,43 @@ brandsite
   width: 100%;
 }
 
+.description {
+  margin: 75px 20%;
+  display: inline-block;
+}
 
+.description > * {text-align: center;}
+.description h1 {font-size: 60px;}
+.description h2 {font-size: 30px;}
+.description p {font-size: 20px; padding-top:  20px;}
 
+.color-nm > *  {color: #b66a45; border-color: #b66a45;}
+
+.productscontainer {
+  display: inline-block;
+  width: 100%
+}
+.products {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+.products img {
+  width: 80%;
+  margin: 0 10%;
+}
+
+.products > * {text-align: center; margin: 0 50px;}
+.products h1 {font-size: 30px;font-weight: 600;}
+.products p {font-size: 20px; padding-top:  20px;}
+
+button.pdf {
+  margin-top: 20px;
+}
+
+button.pdf:hover {
+  color: #fff; background-color: #b66a45;
+}
 
 
 

@@ -14,32 +14,43 @@
   <?php include 'header.php'; ?>
   <div class="maincontainer">
     <!--container-brand-->
-    <section class="brandcontainer">
+    <section class="brandcontainer color-nm">
       <figure>
         <img src="img/locher-food-brand-niellsen-massey-nsa-truffles.jpg" alt="...">
+        <figcaption>Niellsen Massey NSA Truffles</figcaption>
       </figure>
       <figure class="brandimgleft">
         <img src="img/locher-food-brand-niellsen-massey-mad-vanilla-extract.jpg" alt="...">
+        <figcaption>Niellsen Massey Mad Vanilla Extract</figcaption>
       </figure>
-
-      <div class="description">
+      <!--description-->
+      <div class="description color-nm">
         <h1>Niellsen Massey</h1>
-        <h2>Feinste Qualität - Reine Vanillen und AromenNielsen-Massey</h2>
-        <p>Vanillas stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her. Unser Fokus auf Qualität beginnt mit der Beschaffung der Schoten von unserem Netzwerk vertrauenswürdiger Lieferanten in den besten Vanilleanbaugebieten der Welt: Madagaskar, Mexiko und Tahiti. Unser Team prüft jede Schote genau, um sicherzustellen, dass sie unseren strengen Qualitätsstandards entspricht.</p>
+        <h2>Feinste Qualität - Reine Vanillen und Aromen</h2>
+        <p>Nielsen Massey stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her. Unser Fokus auf Qualität beginnt mit der Beschaffung der Schoten von unserem Netzwerk vertrauenswürdiger Lieferanten in den besten Vanilleanbaugebieten der Welt: Madagaskar, Mexiko und Tahiti. Unser Team prüft jede Schote genau, um sicherzustellen, dass sie unseren strengen Qualitätsstandards entspricht.</p>
+      </div>
+      <!--products-->
+      <div class="productscontainer">
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
+          <h1>Pure Vanilla Extract</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
+          <h1>Pure Vanilla Extract</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
+          <h1>Pure Vanilla Extract</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
       </div>
     </section>
 
-
-    <!--all-projekt-->
-    <section class="projektallcontainer">
-      <h1 class="title sticky"> <span>Weitere</span> Projekte</h1>
-      <?php include 'projekt-overall.php'; ?>
-      <style> #object-Ap02 { display: none; } </style>
-    </section>
     <?php include 'footer.php'; ?>
   </div>
-  <!--container-background-->
-  <div class="background"></div>
 
   <?php include 'script.php'; ?>
 </body>
