@@ -295,9 +295,14 @@ button.pdf:hover {
 
 .stickyproductnav {
     position: sticky;
-    top: 150px;
+    top: 70px;
+    bottom: 0px;
     padding-top: 30px;
-    background-color: lightblue;
+    border-bottom: 1px solid #b66a45;
+    background-color: #fff;
+}
+.productsaction {
+  display: inline-block;
 }
 
 
