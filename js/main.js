@@ -47,6 +47,16 @@ $(document).ready(function () {
       $(brandhover).children().last().toggleClass('fade');
    });
 
+   // impressum //
+   $('.impressum').click(function() {
+       var totoggle = $(this).attr("data-toggle");
+       $(totoggle).slideToggle(500);
+
+       if ($(totoggle).is(":visible")) {
+           $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
+       }
+   });
+
 });
 
 // Textanimation JS

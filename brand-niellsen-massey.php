@@ -29,29 +29,46 @@
         <h2>Feinste Qualität - Reine Vanillen und Aromen</h2>
         <p>Nielsen Massey stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her. Unser Fokus auf Qualität beginnt mit der Beschaffung der Schoten von unserem Netzwerk vertrauenswürdiger Lieferanten in den besten Vanilleanbaugebieten der Welt: Madagaskar, Mexiko und Tahiti. Unser Team prüft jede Schote genau, um sicherzustellen, dass sie unseren strengen Qualitätsstandards entspricht.</p>
       </div>
+      <div class="stickyproductnav">
+        STICKY
+      </div>
       <!--products-->
       <div class="productscontainer">
         <div class="products color-nm">
-          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
+          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.png" alt="...">
           <h1>Pure Vanilla Extract</h1>
           <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
         </div>
         <div class="products color-nm">
-          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
+          <img src="img/locher-food-brand-niellsen-massey-pure-paste-2oz.png" alt="...">
+          <h1>Pure Past</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-pow-2.5-oz-2.png" alt="...">
+          <h1>Pure Pow</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.png" alt="...">
           <h1>Pure Vanilla Extract</h1>
           <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
         </div>
         <div class="products color-nm">
-          <img src="img/locher-food-brand-niellsen-massey-pure-4-oz.jpg" alt="...">
-          <h1>Pure Vanilla Extract</h1>
+          <img src="img/locher-food-brand-niellsen-massey-pure-paste-2oz.png" alt="...">
+          <h1>Pure Past</h1>
+          <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        </div>
+        <div class="products color-nm">
+          <img src="img/locher-food-brand-niellsen-massey-pure-pow-2.5-oz-2.png" alt="...">
+          <h1>Pure Pow</h1>
           <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
         </div>
       </div>
+
     </section>
-
-    <?php include 'footer.php'; ?>
   </div>
-
+  <?php include 'footer.php'; ?>
   <?php include 'script.php'; ?>
 </body>
 </html>
