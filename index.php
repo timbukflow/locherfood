@@ -67,11 +67,8 @@
         <h2 class="brandheadline">Hössbier</h2>
       </a>
     </div>
-
-    <div class="grid item10"></div>
-    <div class="grid item11"></div>
-    <div class="grid item12"></div>
   </div>
+
   <div class="hero-section">
     hello
   </div>

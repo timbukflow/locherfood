@@ -14,7 +14,7 @@ body {
   padding-top: 140px;
 }
 
-h1, h2 {
+h1, h2, button {
   color: #295CA9;
   margin: 0;
   font-weight: 300;
@@ -34,6 +34,32 @@ a {
   text-decoration: none;
 }
 
+button {
+  font-size: 20px;
+  font-weight: 400;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: solid 1px #295CA9;
+  line-height: 1;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  margin: 0;
+  padding: 15px 20px;
+  border-radius: 50px;
+  transition: all 0.5s;
+}
+
+button:hover {
+  background-color: #295CA9;
+  color: #fff;
+  transition: all 0.5s;
+}
+
+/*----------------------------------
+nav
+-----------------------------------*/
+
 #nav {
   position: fixed;
   top: 0;
@@ -48,6 +74,9 @@ a {
   transition: all 1s;
 }
 
+.homebutton {
+  display: inline-block;
+}
 .logo {
   transition: all 1s;
 }
@@ -55,11 +84,85 @@ a {
   width: 150px;
   transition: all 1s;
 }
-
 .headertext {
   display: inline;
   vertical-align: middle;
   padding-left: 15px;
+}
+
+.navcontainer {
+  float: right;
+}
+.kontakt {
+  display: inline-block;
+}
+
+#navburger {
+  float: right;
+  border: solid 1px #295CA9;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left: 10px;
+  position: relative;
+  cursor: pointer;
+  -webkit-transition: ease 1s;
+  -moz-transition: ease 1s;
+  -o-transition: ease 1s;
+  transition: ease 1s;
+}
+
+#navburger span {
+  position: absolute;
+  height: 1px;
+  margin: 18px 30%;
+  width: 40%;
+  background-color: #295CA9;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+#navburger span:nth-child(1) {
+    top: 0px;
+}
+
+#navburger span:nth-child(2),#navburger span:nth-child(3) {
+    top: 7px;
+}
+
+#navburger span:nth-child(4) {
+    top: 14px;
+}
+
+#navburger.open span:nth-child(1) {
+    top: 7px;
+    opacity: 0;
+}
+
+#navburger.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#navburger.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#navburger.open span:nth-child(4) {
+    top: 8px;
+    opacity: 0;
 }
 
 /*----------------------------------
@@ -69,7 +172,7 @@ maincontainer start
   margin: 0 2%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: repeat(13, 20vh);
+  grid-template-rows: repeat(9, 20vh);
   grid-gap: 10px;
 }
 
@@ -102,11 +205,8 @@ maincontainer start
 .item5 { grid-row: 3 / 6;}
 .item6 { grid-row: 4 / 7;}
 .item7 { grid-row: 7 / 10;}
-.item8 { grid-row: 6 / 9;}
+.item8 { grid-row: 6 / 10;}
 .item9 { grid-row: 7 / 10;}
-.item10 { grid-row: 10 / 14;}
-.item11 { grid-row: 9 / 14;}
-.item12 { grid-row: 10 / 14;}
 
 h2.brandheadline {
   color: #fff;
