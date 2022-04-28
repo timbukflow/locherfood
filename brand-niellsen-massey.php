@@ -30,8 +30,8 @@
         <p>Nielsen Massey stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her. Unser Fokus auf Qualität beginnt mit der Beschaffung der Schoten von unserem Netzwerk vertrauenswürdiger Lieferanten in den besten Vanilleanbaugebieten der Welt: Madagaskar, Mexiko und Tahiti. Unser Team prüft jede Schote genau, um sicherzustellen, dass sie unseren strengen Qualitätsstandards entspricht.</p>
       </div>
       <div class="stickyproductnav">
-        <div class="productsaction"> sortiment</div>
-        <div class="productsaction"> webseite</div>
+        <button class="pdf" type="button" name="button">Sortimentsübersicht</button>
+        <button class="pdf" type="button" name="button">Webseite</button>
       </div>
       <!--products-->
       <div class="productscontainer">
