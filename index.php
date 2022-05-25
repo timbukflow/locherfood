@@ -32,7 +32,7 @@
       </a>
     </div>
     <div class="grid item4">
-      <a href="brand-niellsen-massey">
+      <a href="brand-jaffa-champion">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-jaffa.jpg');"></div>
         <h1 class="brandheadline">Jaffa Champion </h1>
       </a>

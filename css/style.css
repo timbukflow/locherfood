@@ -14,7 +14,7 @@ body {
   padding-top: 105px;
 }
 
-h1, h2, p, a, button, figure {
+h1, h2, h3, p, a, button, figure {
   color: #295CA9;
   margin: 0;
   font-weight: 400;
@@ -321,7 +321,7 @@ h1.brandheadline.fade {
 brand-site
 -----------------------------------*/
 .brandcontainer figure {
-  width: calc(50% - 5px);
+  width: 100%;
   float: left;
 
   position: relative;
@@ -337,13 +337,16 @@ brand-site
 .description {
   margin: 75px 20%;
   display: inline-block;
+  text-align: center;
 }
 
 .description > * {text-align: center;}
-.description h2 {font-size: 30px;}
+.description h2 {font-size: 30px; font-weight: 700;}
 .description p {padding-top:  20px;}
+.description img {width: 200px;margin-bottom: 50px;}
 
 .color-nm > *  {color: #b66a45; border-color: #b66a45;}
+/*.color-jc > *  {color: #701f3f; border-color: #701f3f;}*/
 
 .productscontainer {
   display: inline-block;
@@ -361,23 +364,10 @@ brand-site
 }
 
 .products > * {text-align: center; margin: 0 50px;}
-.products h1 {font-size: 30px;font-weight: 600;}
+.products h1 {font-size: 30px; text-transform: none;}
+.products h3 {font-size: 18px; font-weight: 400;}
 .products p {font-size: 20px; padding-top:  20px;}
 
-button.pdf {
-  margin-top: 20px;
-}
-
-button.pdf:hover {
-  color: #fff; background-color: #b66a45;
-}
-
-.stickyproductnav {
-    position: sticky;
-    top: 70px;
-    bottom: 0px;
-    padding-top: 30px;
-}
 .productsaction {
   display: inline-block;
 }
