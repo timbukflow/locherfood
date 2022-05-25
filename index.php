@@ -16,55 +16,55 @@
     <div class="grid item1">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-niellsen-massey.jpg');"></div>
-        <h2 class="brandheadline">Niellsen Massey</h2>
+        <h1 class="brandheadline">Niellsen Massey</h1>
       </a>
     </div>
     <div class="grid item2">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-yolloh.jpg');"></div>
-        <h2 class="brandheadline">Yolloh</h2>
+        <h1 class="brandheadline">Yolloh</h1>
       </a>
     </div>
     <div class="grid item3">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-savea.jpg');"></div>
-        <h2 class="brandheadline">Savea</h2>
+        <h1 class="brandheadline">Savea</h1>
       </a>
     </div>
     <div class="grid item4">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-jaffa.jpg');"></div>
-        <h2 class="brandheadline">Jaffa Champion </h2>
+        <h1 class="brandheadline">Jaffa Champion </h1>
       </a>
     </div>
     <div class="grid item5">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
-        <h2 class="brandheadline">O's Bubble</h2>
+        <h1 class="brandheadline">O's Bubble</h1>
       </a>
     </div>
     <div class="grid item6">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-sparta-groves-olivenoel.jpg');"></div>
-        <h2 class="brandheadline">Sparta Groves</h2>
+        <h1 class="brandheadline">Sparta Groves</h1>
       </a>
     </div>
     <div class="grid item7">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-vier-diamanten.jpg');"></div>
-        <h2 class="brandheadline">Vier Diamanten</h2>
+        <h1 class="brandheadline">Vier Diamanten</h1>
       </a>
     </div>
     <div class="grid item8">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-minex.jpg');"></div>
-        <h2 class="brandheadline">Minex</h2>
+        <h1 class="brandheadline">Minex</h1>
       </a>
     </div>
     <div class="grid item9">
       <a href="brand-niellsen-massey">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-hoessbier.jpg');"></div>
-        <h2 class="brandheadline">Hössbier</h2>
+        <h1 class="brandheadline">Hössbier</h1>
       </a>
     </div>
   </div>

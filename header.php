@@ -4,17 +4,23 @@
 			<a href="index">
 				<img class="logo" src="img/locher-food-logo.svg" alt="locher-food-logo" width="200px" height="auto">
 			</a>
-			<h1 class="headertext">Wir lieben Food!</h1>
+			<h2 class="headertext">Wir lieben Food!</h2>
   	</div>
 		<div class="navcontainer">
-			<button class="kontakt" type="button" name="button">Kontakt</button>
-			<div id="navburger">
+			<a href="index"><button class="navbutton marken" type="button" name="button">MARKEN</button></a>
+			<a href="wir"><button class="navbutton wir" type="button" name="button">WIR</button></a>
+			<button class="navbutton kontakt" type="button" name="button">KONTAKT</button>
+					<!--<div id="navburger">
 					<span></span>
 					<span></span>
 					<span></span>
 					<span></span>
-			</div>
+			</div>-->
 		</div>
-
 	</nav>
+	<div class="kontaktdata">
+			<p>Liebe Feinschmecker, gerne führen wir Sie durch die Welt der Düft und Aromen.</p>
+			<a href="tel:0791979971">T +41 71 747 20 52</a>
+			<a href="mailto:l.cuomo@lochertrade.ch" target="_top">l.cuomo@lochertrade.ch</a>
+	</div>
 </header>
