@@ -1,7 +1,7 @@
 // Main JS
 $(document).ready(function () {
 
-    // navicon //
+  // navicon //
     var scrollTop = 0;
     $(window).scroll(function(){
       scrollTop = $(window).scrollTop();

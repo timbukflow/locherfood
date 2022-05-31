@@ -15,12 +15,12 @@
   <div class="gridcontainer">
     <div class="grid item1">
       <a href="brand-niellsen-massey">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-niellsen-massey.jpg');"></div>
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-niellsen-massey-nsa-truffles.jpg');"></div>
         <h1 class="brandheadline">Niellsen Massey</h1>
       </a>
     </div>
     <div class="grid item2">
-      <a href="brand-niellsen-massey">
+      <a href="brand-yolloh">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-yolloh.jpg');"></div>
         <h1 class="brandheadline">Yolloh</h1>
       </a>

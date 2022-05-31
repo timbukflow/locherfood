@@ -2,9 +2,8 @@
 	<nav id="nav" class="nav">
 		<div class="homebutton">
 			<a href="index">
-				<img class="logo" src="img/locher-food-logo.svg" alt="locher-food-logo" width="200px" height="auto">
+				<img class="logo" src="img/locher-food-logo.svg" alt="locher-food-logo" width="300px" height="auto">
 			</a>
-			<h2 class="headertext">Wir lieben Food!</h2>
   	</div>
 		<div class="navcontainer">
 			<a href="index"><button class="navbutton marken" type="button" name="button">MARKEN</button></a>
