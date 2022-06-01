@@ -280,7 +280,6 @@ brand grid
 .gridcontainer a {
   position: relative;
   display: inherit;
-  background-color: blue;
   overflow: hidden;
 }
 
@@ -288,12 +287,11 @@ brand grid
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: #CFEEFA;
-  transition: all 1s;
+  transition: all 0.75s;
 }
 .brandimg.fadeimg {
   filter: brightness(0.5);
-  transform: scale(1.2);
+  background-position: left;
 }
 .item1 { grid-row: 1 / 4;}
 .item2 { grid-row: 1 / 3;}
@@ -316,7 +314,7 @@ h1.brandheadline {
 h1.brandheadline.fade {
   top: 0;
   opacity: 1;
-  transition: all 1s;
+  transition: all 0.75s;
 }
 
 /*----------------------------------
