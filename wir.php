@@ -12,18 +12,55 @@
 </head>
 <body>
   <?php include 'header.php'; ?>
-  <section class="wircontainer">
+  <section class="maincontainer">
     <article class="storyholder">
-      <h1>Händler aus Passion</h1>
-      <img class="storyimg" src="img/locher-food-ueber-uns-wir-sind-haendler-aus-passion.svg" alt="">
-      <img class="storyimgbg" src="img/locher-food-ueber-uns-background.svg" alt="">
-      <p>Nein, wir können ganz unmöglich an einem Marktstand vorbeigehen, ohne das feine native Olivenöl genüsslich zu degustieren. Und ja, immer dann, wenn wir mal wieder irgendwo eine kulinarische Köstlichkeit entdecken, die uns restlos begeistert, möchten wir diesen Schatz am liebsten gleich mit der ganzen Welt teilen.</p>
+      <div class="storybackground">
+        <img class="" src="img/locher-food-story-background.svg" alt="">
+      </div>
+      <div class="story start">
+        <img class="sun" src="img/locher-food-story-sun.svg" alt="">
+        <img class="cloud01" src="img/locher-food-story-cloud.svg" alt="">
+        <img class="cloud02" src="img/locher-food-story-cloud.svg" alt="">
+        <img class="cloud03" src="img/locher-food-story-cloud.svg" alt="">
+        <img class="markt" src="img/locher-food-story-markt.svg" alt="">
+      </div>
+      <div class="description">
+        <h1>Wir sind Händler aus Passion</h1>
+        <p>Nein, wir können ganz unmöglich an einem Marktstand vorbeigehen, ohne das feine native Olivenöl genüsslich zu degustieren. Und ja, immer dann, wenn wir mal wieder irgendwo eine kulinarische Köstlichkeit entdecken, die uns restlos begeistert, möchten wir diesen Schatz am liebsten gleich mit der ganzen Welt teilen.</p>
+      </div>
     </article>
     <article class="storyholder">
-      <h1>Länder und Produkte</h1>
-      <img class="storyimg" src="img/locher-food-ueber-uns-laender-produkte-marken.svg" alt="">
-      <img class="storyimgbg" src="img/locher-food-ueber-uns-background.svg" alt="">
-      <p>Sie spüren, weshalb wir es zu unserer Mission gemacht haben, Ihnen, geschätzte KundInnen, in unserem Shop ein sorgfältig kuratiertes Sortiment an wunderprächtigen Lebensmitteln anzubieten – das ist schlicht unsere grosse Passion!</p>
+      <div class="logistik">
+        <img class="land" src="img/locher-food-story-land.svg" alt="">
+      </div>
+      <div class="description">
+        <h1>Unser Zuhause ist die Welt </h1>
+        <p>Sie spüren, weshalb wir es zu unserer Mission gemacht haben, Ihnen, geschätzte KundInnen, in unserem Shop ein sorgfältig kuratiertes Sortiment an wunderprächtigen Lebensmitteln anzubieten – das ist schlicht unsere grosse Passion! Und genau deshalb sind wir auch ständig rund um die Welt unterwegs, um für Sie die faszinierendsten Produkte zu finden.</p>
+      </div>
+    </article>
+    <article class="storyholder">
+      <div class="logistik">
+        <img class="wave" src="img/locher-food-story-wave.svg" alt="">
+        <img class="boat" src="img/locher-food-story-boat.svg" alt="">
+        <img class="fish01" src="img/locher-food-story-fish01.svg" alt="">
+        <img class="fish03" src="img/locher-food-story-fish01.svg" alt="">
+        <img class="fish04" src="img/locher-food-story-fish01.svg" alt="">
+        <img class="fish05" src="img/locher-food-story-fish01.svg" alt="">
+        <img class="fish02" src="img/locher-food-story-fish02.svg" alt="">
+      </div>
+      <div class="description">
+        <h1>Wir machen es Ihnen einfach </h1>
+        <p>Als Händler wissen wir ganz genau, dass Sie es am allerliebsten einfach mögen. Aus diesem Grund kümmern wir uns nicht nur um die Beschaffung und den Import, sondern auch die ganze Logistik. Das heisst, Sie brauchen sich nicht mit irgendwelchen Zollpapieren herumzuschlagen – das nehmen wir Ihnen alles gerne ab.   die Distribution und den Verkauf unserer Produkte, sondern auch gleich noch ums Marketing. </p>
+      </div>
+    </article>
+    <article class="storyholder">
+      <div class="story">
+        <img class="land" src="img/locher-food-story-land.svg" alt="">
+      </div>
+      <div class="description">
+        <h1>Und wir sorgen für Verkäufe </h1>
+        <p>Wichtig zu wissen ist für Sie schliesslich auch, dass wir Sie nicht nur gerne bei der Distribution und dem Verkauf unserer Produkte unterstützen, sondern auch beim Marketing – und zwar von ersten Ideen über Konzepte und Strategien bis hin zur Umsetzung. Mit uns setzen Sie auf einen erfahrenen, zuverlässigen und fairen Partner, der seit vielen Jahren ein grosses und bestens bewährtes Netzwerk aus LieferantInnen und KundInnen im Detailhandel, in der Gastronomie und in der Industrie pflegt – und Ihnen alles bietet, was Sie brauchen.</p>
+      </div>
     </article>
   </section>
 

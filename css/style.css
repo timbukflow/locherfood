@@ -213,52 +213,151 @@ nav
 maincontainer
 -----------------------------------*/
 .maincontainer {
-  padding: 2% 2%;
+  margin: 0 2% 2%;
+  position: relative;
+  overflow: hidden;
 }
 
 /*----------------------------------
 wircontainer
 -----------------------------------*/
-
-.wircontainer {
-  margin: 0;
-}
-
 .storyholder {
-  margin: 120px 0;
   position: relative;
 }
-.storyimg {
-  margin: 150px 20% 0 30%;
-  width: 50%;
-  z-index: 2;
-  position: relative;
-}
-.storyimgbg {
+
+.storybackground {
   position: absolute;
   z-index: 1;
-  left: 0;
-  bottom: 20%;
-  opacity: 0.25;
-}
-.storycontentholder {
-  margin: 0 20%;
+  height: 50vh;
+  width: 100%;
 }
 
-.storyholder h1 {
-  width: 30%;
-  margin: 0 20%;
+.story {
+  position: relative;
+  z-index: 2;
+}
+
+.start {
+  padding-top: 25vh;
+}
+.sun {
+  position: absolute;
+  top: 10%;
+  right: 15%;
+  width: 150px;
+  animation: spinn 10s infinite linear;
+}
+@keyframes spinn {
+   0% {transform: rotate(0deg)}
+   100% {transform: rotate(360deg)}
+}
+.cloud01 {
+  position: absolute;
+  top: 15%;
+  left: -25%;
+  width: 25%;
+  animation: cloud01 10s infinite linear;
+}
+@keyframes cloud01 {
+   0% {left: -25%;}
+   100% {left: 100%;}
+}
+.cloud02 {
+  position: absolute;
+  top: 6%;
+  left: 25%;
+  width: 15%;
+  animation: cloud02 12s infinite linear;
+}
+@keyframes cloud02 {
+   0% {left: -25%;}
+   100% {left: 100%;}
+}
+.cloud03 {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  width: 15%;
+  animation: cloud03 14s infinite linear;
+}
+@keyframes cloud03 {
+   0% {left: -50%;}
+   100% {left: 100%;}
+}
+.markt {
+  margin: 0 25%;
+  position: relative;
+}
+.world {
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+  bottom: 0;
+}
+.land {
+  margin: 5% 30% 0;
+  position: relative;
+}
+
+.logistik {
+  position: relative;
+}
+.boat {
+  margin: 5% 30% 19%;
+  position: relative;
+  z-index: 1;
+  animation: boat 14s infinite linear;
+}
+@keyframes boat {
+   0% {left: -70%;}
+   100% {left: 100%;}
+}
+.wave {
+  position: absolute;
+  z-index: 2;
+  width: 100%;
+  bottom: 0;
+}
+.fish01 {
   position: absolute;
   z-index: 3;
+  width: 5%;
+  bottom: 100px;
+  left: -20%;
+  animation: fish01 10s infinite linear;
 }
-.storyholder p {
-  padding-left: 50px;
-  width: 50%;
-  margin: 45px 25% 0;
-  position: relative;
+@keyframes fish01 {
+   0% {left: -20%;}
+   100% {left: 100%;}
+}
+.fish02 {
+  position: absolute;
   z-index: 3;
-
+  width: 5%;
+  bottom: 50px;
+  right: : -20;
+  animation: fish02 5s infinite linear;
 }
+@keyframes fish02 {
+   0% {right: -20%; }
+   100% {right: 100%; }
+}
+.fish03,
+.fish04,
+.fish05 {
+  position: absolute;
+  z-index: 3;
+  width: 5%;
+  left: -20;
+}
+.fish03 {bottom: 0px; animation: fish03 7s infinite linear;}
+@keyframes fish03 {0% {left: -20%; }100% {left: 100%; }}
+.fish04 {bottom: 10px; animation: fish04 16s infinite linear;}
+@keyframes fish04 {0% {left: -20%; }100% {left: 100%; }}
+.fish05 {bottom: 80px;animation: fish05 15s infinite linear;}
+@keyframes fish05 {0% {left: -20%; }100% {left: 100%; }}
+
+
 
 
 
