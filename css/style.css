@@ -68,6 +68,7 @@ button:hover {
   transition: all 0.5s;
 }
 
+
 figcaption {
   font-size: 20px;
 }
@@ -98,8 +99,7 @@ nav
   transition: all 1s;
 }
 .logo.scrolled-nav {
-  width: 160px;
-  transition: all 1s;
+  width: 200px;
 }
 .headertext {
   display: inline;
@@ -110,7 +110,6 @@ nav
 .headertext.scrolled-nav {
   font-size: 28px;
   margin-left: 10px;
-  transition: all 1s;
 }
 
 .navcontainer {
@@ -295,7 +294,7 @@ wircontainer
   bottom: 0;
 }
 .land {
-  margin: 5% 30% 0;
+  margin: 5% 20% 0;
   position: relative;
 }
 
@@ -440,8 +439,8 @@ brand-site
 }
 
 .description > * {text-align: center;}
-.description h2 {font-size: 30px; font-weight: 700;}
-.description p {padding-top:  20px;}
+.description h2 {font-size: 25px; font-weight: 600; padding-top: 15px;}
+.description p {padding-top: 15px;}
 .description img {width: 200px;margin-bottom: 50px;}
 
 .productscontainer {
@@ -468,6 +467,14 @@ brand-site
   display: inline-block;
 }
 
+/*------------- nextbrand -------------*/
+.nextbrand {
+    text-align: center;
+}
+.nextbrand button {color: #fff;}
+.c-yolloh {background-color: #95d2da;}
+.c-niellsen {background-color: #4d322b;}
+.c-savea {background-color: #e7c081;}
 
 /*----------------------------------
 footer
