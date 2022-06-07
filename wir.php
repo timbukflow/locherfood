@@ -15,7 +15,7 @@
   <section class="maincontainer">
     <article class="storyholder">
       <div class="story start">
-        <img class="markt" src="img/locher-food-story-markt.svg" alt="">
+        <img class="main" src="img/locher-food-story-markt.svg" alt="">
         <img class="arm" src="img/locher-food-story-markt-arm.svg" alt="">
       </div>
       <div class="description">
@@ -25,7 +25,7 @@
     </article>
     <article class="storyholder">
       <div class="story">
-        <img class="land" src="img/locher-food-story-land.svg" alt="">
+        <img class="main" src="img/locher-food-story-land.svg" alt="">
         <img class="marker" src="img/locher-food-story-land-marker.svg" alt="">
       </div>
       <div class="description">
@@ -35,7 +35,7 @@
     </article>
     <article class="storyholder">
       <div class="story">
-        <img class="logistik" src="img/locher-food-story-logistik.svg" alt="">
+        <img class="main" src="img/locher-food-story-logistik.svg" alt="">
         <img class="welt" src="img/locher-food-story-logistik-welt.svg" alt="">
       </div>
       <div class="description">
@@ -45,7 +45,8 @@
     </article>
     <article class="storyholder">
       <div class="story">
-        <img class="land" src="img/locher-food-story-brand.svg" alt="">
+        <img class="main" src="img/locher-food-story-brand.svg" alt="">
+        <img class="word" src="img/locher-food-story-brand-word.svg" alt="">
       </div>
       <div class="description">
         <h1>Und wir sorgen für Verkäufe </h1>
@@ -54,12 +55,7 @@
     </article>
   </section>
 
-<footer>
- <div class="container">
-   <p>Footer area</p>
- </div>
-</footer>
-
+  <?php include 'footer.php'; ?>
   <?php include 'script.php'; ?>
 </body>
 </html>

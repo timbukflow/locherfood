@@ -1,30 +1,7 @@
 // Main JS
 $(document).ready(function () {
 
-  // navicon //
-    var scrollTop = 0;
-    $(window).scroll(function(){
-      scrollTop = $(window).scrollTop();
-       $('.counter').html(scrollTop);
-
-      if (scrollTop >= 100) {
-        $('#nav').addClass('scrolled-nav');
-        $('.logo').addClass('scrolled-nav');
-        $('.headertext').addClass('scrolled-nav');
-        $('#navburger').addClass('scrolled-nav');
-        $('#navburger').children().addClass('scrolled-nav');
-        $('.navbutton').addClass('scrolled-nav');
-      } else if (scrollTop < 100) {
-        $('#nav').removeClass('scrolled-nav');
-        $('.logo').removeClass('scrolled-nav');
-        $('.headertext').removeClass('scrolled-nav');
-        $('#navburger').removeClass('scrolled-nav');
-        $('#navburger').children().removeClass('scrolled-nav');
-        $('.navbutton').removeClass('scrolled-nav');
-      }
-    });
-
-      // nav kontakt //
+    // nav kontakt //
         $(".kontakt").click(function() {
           $(".kontaktdata").fadeToggle();
         });

@@ -69,14 +69,11 @@
     </div>
   </div>
 
-  <div class="hero-section">
-    hello
-  </div>
-<footer>
- <div class="container">
-   <p>Footer area</p>
- </div>
-</footer>
+  <footer>
+    <a href="index"><button class="navbutton marken" type="button" name="button">MARKEN</button></a>
+     <a href="wir"><button class="navbutton wir" type="button" name="button">WIR</button></a>
+     <button class="navbutton kontakt" type="button" name="button">KONTAKT</button>
+  </footer>
 
   <?php include 'script.php'; ?>
 </body>
