@@ -45,7 +45,7 @@
     </article>
     <article class="storyholder">
       <div class="story">
-        <img class="land" src="img/locher-food-story-land.svg" alt="">
+        <img class="land" src="img/locher-food-story-brand.svg" alt="">
       </div>
       <div class="description">
         <h1>Und wir sorgen für Verkäufe </h1>
