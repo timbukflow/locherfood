@@ -14,15 +14,9 @@
   <?php include 'header.php'; ?>
   <section class="maincontainer">
     <article class="storyholder">
-      <div class="storybackground">
-        <img class="" src="img/locher-food-story-background.svg" alt="">
-      </div>
       <div class="story start">
-        <img class="sun" src="img/locher-food-story-sun.svg" alt="">
-        <img class="cloud01" src="img/locher-food-story-cloud.svg" alt="">
-        <img class="cloud02" src="img/locher-food-story-cloud.svg" alt="">
-        <img class="cloud03" src="img/locher-food-story-cloud.svg" alt="">
         <img class="markt" src="img/locher-food-story-markt.svg" alt="">
+        <img class="arm" src="img/locher-food-story-markt-arm.svg" alt="">
       </div>
       <div class="description">
         <h1>Wir sind Händler aus Passion</h1>
@@ -30,8 +24,9 @@
       </div>
     </article>
     <article class="storyholder">
-      <div class="logistik">
+      <div class="story">
         <img class="land" src="img/locher-food-story-land.svg" alt="">
+        <img class="marker" src="img/locher-food-story-land-marker.svg" alt="">
       </div>
       <div class="description">
         <h1>Unser Zuhause ist die Welt </h1>
@@ -39,14 +34,9 @@
       </div>
     </article>
     <article class="storyholder">
-      <div class="logistik">
-        <img class="wave" src="img/locher-food-story-wave.svg" alt="">
-        <img class="boat" src="img/locher-food-story-boat.svg" alt="">
-        <img class="fish01" src="img/locher-food-story-fish01.svg" alt="">
-        <img class="fish03" src="img/locher-food-story-fish01.svg" alt="">
-        <img class="fish04" src="img/locher-food-story-fish01.svg" alt="">
-        <img class="fish05" src="img/locher-food-story-fish01.svg" alt="">
-        <img class="fish02" src="img/locher-food-story-fish02.svg" alt="">
+      <div class="story">
+        <img class="logistik" src="img/locher-food-story-logistik.svg" alt="">
+        <img class="welt" src="img/locher-food-story-logistik-welt.svg" alt="">
       </div>
       <div class="description">
         <h1>Wir machen es Ihnen einfach </h1>

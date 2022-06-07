@@ -59,8 +59,8 @@
     </section>
     <!--nextbrand-->
     <div class="nextbrand">
-      <button class="c-savea" type="button" name="button">KONTAKT</button>
-      <a href="brand-os-bubble"><button class="c-savea" type="button" name="button">WEITERE MARKEN</button></a>
+      <button class="c-jaffa" type="button" name="button">KONTAKT</button>
+      <a href="brand-os-bubble"><button class="c-jaffa" type="button" name="button">WEITERE MARKEN</button></a>
     </div>
   </div>
 

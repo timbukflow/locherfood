@@ -237,124 +237,58 @@ wircontainer
 }
 
 .start {
-  padding-top: 25vh;
-}
-.sun {
-  position: absolute;
-  top: 10%;
-  right: 15%;
-  width: 150px;
-  animation: spinn 10s infinite linear;
-}
-@keyframes spinn {
-   0% {transform: rotate(0deg)}
-   100% {transform: rotate(360deg)}
-}
-.cloud01 {
-  position: absolute;
-  top: 15%;
-  left: -25%;
-  width: 25%;
-  animation: cloud01 10s infinite linear;
-}
-@keyframes cloud01 {
-   0% {left: -25%;}
-   100% {left: 100%;}
-}
-.cloud02 {
-  position: absolute;
-  top: 6%;
-  left: 25%;
-  width: 15%;
-  animation: cloud02 12s infinite linear;
-}
-@keyframes cloud02 {
-   0% {left: -25%;}
-   100% {left: 100%;}
-}
-.cloud03 {
-  position: absolute;
-  top: 35%;
-  left: 50%;
-  width: 15%;
-  animation: cloud03 14s infinite linear;
-}
-@keyframes cloud03 {
-   0% {left: -50%;}
-   100% {left: 100%;}
-}
-.markt {
-  margin: 0 25%;
-  position: relative;
-}
-.world {
-  position: absolute;
-  z-index: 2;
-  width: 100%;
-  bottom: 0;
-}
-.land {
-  margin: 5% 20% 0;
-  position: relative;
+  margin-top: 50px;
 }
 
-.logistik {
-  position: relative;
-}
-.boat {
-  margin: 5% 30% 19%;
-  position: relative;
-  z-index: 1;
-  animation: boat 14s infinite linear;
-}
-@keyframes boat {
-   0% {left: -70%;}
-   100% {left: 100%;}
-}
-.wave {
-  position: absolute;
+.markt, .land, .logistik {
+  margin: 0 20%;
   z-index: 2;
-  width: 100%;
-  bottom: 0;
+  position: relative;
 }
-.fish01 {
+.arm {
+  transform-origin: center left;
   position: absolute;
-  z-index: 3;
-  width: 5%;
-  bottom: 100px;
-  left: -20%;
-  animation: fish01 10s infinite linear;
+  top: 34%;
+  z-index: 1;
+  left: 53.25%;
+  width: 10.0%;
+  animation: arm 2s ease infinite;
 }
-@keyframes fish01 {
-   0% {left: -20%;}
-   100% {left: 100%;}
+@keyframes arm {
+  50% { transform: rotate(-15deg); }
+  100% { transform: rotate(0deg); }
 }
-.fish02 {
+
+.marker {
+  transform-origin: bottom left;
   position: absolute;
-  z-index: 3;
-  width: 5%;
-  bottom: 50px;
-  right: : -20;
-  animation: fish02 5s infinite linear;
+  top: 20%;
+  z-index: 2;
+  left: 34%;
+  width: 40%;
+  animation: marker 3s ease infinite;
 }
-@keyframes fish02 {
-   0% {right: -20%; }
-   100% {right: 100%; }
+@keyframes marker {
+  50% { top:15% ; }
+  100% { top:20% ; }
 }
-.fish03,
-.fish04,
-.fish05 {
+
+.welt {
+  transform-origin: center;
   position: absolute;
-  z-index: 3;
-  width: 5%;
-  left: -20;
+  top: 7%;
+  z-index: 1;
+  left: 36%;
+  width: 29%;
+  animation: welt 3s ease infinite;
 }
-.fish03 {bottom: 0px; animation: fish03 7s infinite linear;}
-@keyframes fish03 {0% {left: -20%; }100% {left: 100%; }}
-.fish04 {bottom: 10px; animation: fish04 16s infinite linear;}
-@keyframes fish04 {0% {left: -20%; }100% {left: 100%; }}
-.fish05 {bottom: 80px;animation: fish05 15s infinite linear;}
-@keyframes fish05 {0% {left: -20%; }100% {left: 100%; }}
+@keyframes welt {
+  50% { transform: rotate(20deg); }
+  100% { transform: rotate(0deg); }
+}
+
+
+
 
 
 
@@ -475,6 +409,7 @@ brand-site
 .c-yolloh {background-color: #95d2da;}
 .c-niellsen {background-color: #4d322b;}
 .c-savea {background-color: #e7c081;}
+.c-jaffa {background-color: #accbee;}
 
 /*----------------------------------
 footer
