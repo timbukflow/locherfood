@@ -360,6 +360,7 @@ brand-site
 }
 .productholder {
   display: flex;
+  justify-content:center;
 }
 .products {
   width: 33%;

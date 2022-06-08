@@ -44,13 +44,13 @@
       </a>
     </div>
     <div class="grid item6">
-      <a href="brand-niellsen-massey">
+      <a href="brand-sparta-groves">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-sparta-groves-olivenoel.jpg');"></div>
         <h1 class="brandheadline">Sparta Groves</h1>
       </a>
     </div>
     <div class="grid item7">
-      <a href="brand-niellsen-massey">
+      <a href="brand-vier-diamanten">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-vier-diamanten.jpg');"></div>
         <h1 class="brandheadline">Vier Diamanten</h1>
       </a>

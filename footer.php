@@ -11,13 +11,13 @@
     <a href="brand-savea">Savea</a>
     <a href="brand-jaffa-champion">Jaffa Champion</a>
     <a href="brand-os-bubble">O's Bubble</a>
+    <a href="brand-sparta-groves">Sparta Groves</a>
+    <a href="brand-vier-diamanten">Vier Diamanten</a>
     <a href="brand-heossbier">Hössbier</a>
     <a href="brand-hirschbraeu">Hirschbräu</a>
     <a href="brand-herrbert">Herrbert</a>
     <a href="brand-os-bubble">OS bubble</a>
     <a href="brand-minex">Minex</a>
-    <a href="brand-vier-diamanten">Vier Diamanten</a>
-    <a href="brand-sparta-groves">Sparta Groves</a>
     <a href="brand-lagalas">Lagalas</a>
     <a href="brand-zanae">Zanae</a>
   </div>
