@@ -1,12 +1,9 @@
-// Main JS
 $(document).ready(function () {
 
-    // nav kontakt //
-        $(".kontakt").click(function() {
-          $(".kontaktdata").fadeToggle();
-        });
-
-
+    // kontakt //
+    $(".kontakt").click(function() {
+    $('html, body').animate({scrollTop: $("#footer").offset().top}, "slow"); return false;
+    });
 
     // nav burgericon //
 
@@ -25,6 +22,7 @@ $(document).ready(function () {
             //$('.nav li').stop(true).toggleClass('open');
     	});
 
+
     // grid hover
     $('.grid').hover(function() {
       var brandhover = $(this).children();
@@ -34,12 +32,19 @@ $(document).ready(function () {
 
    // impressum //
    $('.impressum').click(function() {
-       var totoggle = $(this).attr("data-toggle");
-       $(totoggle).slideToggle(500);
+     var totoggle = $(this).attr("data-toggle");
+     $(totoggle).slideToggle(300);
 
-       if ($(totoggle).is(":visible")) {
-           $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
-       }
+     if ($(totoggle).is(":visible")) {
+       $('html,body').animate({scrollTop:$(totoggle).offset().top}, 300);
+     }
    });
 
+   // totop //
+   $(".totop").click(function() {
+     $("html, body").animate({ scrollTop: 0 }, "slow");
+     return false;
+   });
+
+   // end//
 });

@@ -1,4 +1,4 @@
-<footer>
+<footer id="footer">
   <div class="foo-container">
     <p>Kontakt</p>
     <a href="tel:0791979971">Telefon</a>
@@ -23,14 +23,21 @@
   </div>
   <div class="foo-impressum">
     <div class="impressum" data-toggle="#impressum"><p>Impressum</p></div>
-    <div class="totop" data-toggle="#totop"><img src="img/locher-food-totop.svg" alt="..." width="70" height="70"></div>
+    <div class="totop"><img src="img/locher-food-totop.svg" alt="..." width="60" height="60"></div>
     <div id="impressum">
+      <p>
+        Copyright:<br>
+        Locher Trade RG AG<br>
+        Wieslistrasse 15<br>
+        CH-9434 Au SG<br>
+        <a class="ssweb" href="https://lochertrade.ch/" target="_blank">www.lochertrade.ch</a>
+      </p>
       <p>
         Design &amp; Code:<br>
         Schwizer &amp; Schlatter GmbH<br>
         Davidstrasse 45<br>
         CH-9000 St.Gallen<br>
-        <a href="https://schwizerschlatter.com/" target="_top">www.schwizerschlatter.com</a><br><br>
+        <a class="ssweb" href="https://schwizerschlatter.com/" target="_blank">www.schwizerschlatter.com</a>
       </p>
     </div>
   </div>

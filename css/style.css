@@ -408,14 +408,23 @@ footer {
   padding:  40px 40px;
 }
 footer a {
- font-size: 35px;
- color: #fff;
- display: block;
+  font-size: 35px;
+  color: #fff;
+  display: table;
+  transition: 0.1s ease-in-out;;
 }
-footer p {
+footer a:hover{
+  padding-left: 10px;
+  opacity: 0.5;
+}
+footer p, .ssweb {
   font-size: 18px;
   font-weight: 500;
   color: #fff;
+  display: block;
+}
+.ssweb {
+  display: inline-block;
 }
 .foo-container {
   width: 50%;
@@ -437,12 +446,12 @@ footer p {
   bottom: 0;
   right: 0;
 }
-
 #impressum {
   display: none;
 }
-
-
+#impressum p {
+  padding-top: 25px;
+}
 
 /*----------------------------------
 responsive design
