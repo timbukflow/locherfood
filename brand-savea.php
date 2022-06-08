@@ -16,37 +16,37 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-savea-start.jpg" alt="...">
+        <img src="img/locher-food-brand-savea-start.jpg" alt="locher-food-brand-savea-start">
       </figure>
       <div class="description">
         <h1>SAVEA</h1>
-        <!--h2>Untertitle</h2>-->
+        <h2>Untertitle</h2>
         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
       </div>
       <!--products-->
       <div class="productscontainer">
-        <div class="products">
-          <img src="img/locher-food-produkt-savea-sesame.jpg" alt="...">
-          <h3>SAVEA</h3>
-          <h1>40g	Sesam Honig</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-savea-erdnuesse-honig.jpg" alt="...">
-          <h3>SAVEA</h3>
-          <h1>40g Erdnüsse Honig</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-savea-mandel-honig.jpg" alt="...">
-          <h3>SAVEA</h3>
-          <h1>40g Mandel Honig </h1>
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-savea-sesame.jpg" alt="locher-food-produkt-savea-sesame">
+            <h3>SAVEA</h3>
+            <h1>Sesam Honig</h1>
+            <p>40 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-savea-erdnuesse-honig.jpg" alt="locher-food-produkt-savea-erdnuesse-honig">
+            <h3>SAVEA</h3>
+            <h1>Erdnüsse Honig</h1>
+            <p>40 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-savea-mandel-honig.jpg" alt="locher-food-produkt-savea-mandel-honig">
+            <h3>SAVEA</h3>
+            <h1>Mandel Honig</h1>
+            <p>40 g</p>
+          </div>
         </div>
       </div>
     </section>
-    <!--nextbrand-->
-    <div class="nextbrand">
-      <button class="c-savea" type="button" name="button">KONTAKT</button>
-      <a href="brand-jaffa-champion"><button class="c-savea" type="button" name="button">WEITERE MARKEN</button></a>
-    </div>
   </div>
 
   <?php include 'footer.php'; ?>

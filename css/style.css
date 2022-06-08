@@ -64,7 +64,6 @@ button {
 button:hover {
   background-color: #000;
   color: #fff;
-  transition: all 0.5s;
 }
 
 figcaption {
@@ -83,21 +82,11 @@ nav
   padding: 30px;
   padding-bottom: 20px;
   background-color: #fff;
-  transition: all 1s;
 }
 
 .homebutton {
   display: inline-block;
   padding-left: 20px;
-}
-.logo {
-  transition: all 1s;
-}
-.headertext {
-  display: inline;
-  vertical-align: middle;
-  margin-left: 15px;
-  transition: all 1s;
 }
 
 .navcontainer {
@@ -329,14 +318,13 @@ h1.brandheadline {
   color: #fff;
   margin: 30px;
   position: absolute;
-  top: -15px;
+  top: -20px;
   opacity: 0;
   transition: all 1s;
 }
 h1.brandheadline.fade {
   top: 0;
   opacity: 1;
-  transition: all 0.75s;
 }
 
 /*----------------------------------

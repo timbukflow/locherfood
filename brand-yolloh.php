@@ -16,66 +16,100 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-yolloh-start.jpg" alt="...">
+        <img src="img/locher-food-brand-yolloh-start.jpg" alt="locher-food-brand-yolloh-start">
       </figure>
       <div class="description">
         <h1>Yolloh</h1>
+        <h2>Taste of Pleasure</h2>
         <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
       </div>
       <!--products-->
       <div class="productscontainer">
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-cola-mix-vegan.jpg" alt="...">
-          <h3>Vegan 135g</h3>
-          <h1>Yolloh Cola Mix</h1>
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-cola-mix-vegan.jpg" alt="locher-food-produkt-yolloh-cola-mix-vegan">
+            <h3>Vegan</h3>
+            <h1>Yolloh Cola Mix</h1>
+            <p>135 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-ufo-vegan.jpg" alt="locher-food-produkt-yolloh-ufo-vegan">
+            <h3>Vegan </h3>
+            <h1>Yolloh Ufo</h1>
+            <p>25g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-seashell-vegan.jpg" alt="locher-food-produkt-yolloh-seashell-vegan">
+            <h3>Vegan </h3>
+            <h1>Yolloh Seashell</h1>
+            <p>45 g</p>
+          </div>
         </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-ufo-vegan.jpg" alt="...">
-          <h3>Vegan 25g</h3>
-          <h1>Yolloh Ufo</h1>
+
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-whisltes-vegan.jpg" alt="locher-food-produkt-yolloh-whisltes-vegan">
+            <h3>Vegan</h3>
+            <h1>Yolloh Whisltes</h1>
+            <p>30 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-babies-vegan.jpg" alt="locher-food-produkt-yolloh-babies-vegan">
+            <h3>Vegan </h3>
+            <h1>Yolloh Babies </h1>
+            <p>135 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-black-rolls-vegan.jpg" alt="locher-food-produkt-yolloh-black-rolls-vegan">
+            <h3>Vegan </h3>
+            <h1>Yolloh Black Rolls</h1>
+            <p>120 g</p>
+          </div>
         </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-seashell-vegan.jpg" alt="...">
-          <h3>Vegan 45g</h3>
-          <h1>Yolloh Seashell</h1>
+
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-acis-tongues-glutenfree.jpg" alt="locher-food-produkt-yolloh-acis-tongues-glutenfree">
+            <h3>Glutenfree </h3>
+            <h1>Yolloh Acis Tongues</h1>
+            <p>135 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-besitos-glutenfree.jpg" alt="locher-food-produkt-yolloh-besitos-glutenfree">
+            <h3>Glutenfree </h3>
+            <h1>Yolloh Besitos</h1>
+            <p>135 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-bottl-gum-glutenfree.jpg" alt="locher-food-produkt-yolloh-bottl-gum-glutenfree">
+            <h3>Glutenfree </h3>
+            <h1>Yolloh Bottl Gum</h1>
+            <p>115 g</p>
+          </div>
         </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-whisltes-vegan.jpg" alt="...">
-          <h3>Vegan 30g</h3>
-          <h1>Yolloh Whisltes</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-babies-vegan.jpg" alt="...">
-          <h3>Vegan 135g</h3>
-          <h1>Yolloh Babies </h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-black-rolls-vegan.jpg" alt="...">
-          <h3>Vegan 120g</h3>
-          <h1>Yolloh Black Rolls</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-acis-tongues-glutenfree.jpg" alt="...">
-          <h3>Glutenfree 135g</h3>
-          <h1>Yolloh Acis Tongues</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-besitos-glutenfree.jpg" alt="...">
-          <h3>Glutenfree 135g</h3>
-          <h1>Yolloh Besitos</h1>
-        </div>
-        <div class="products">
-          <img src="img/locher-food-produkt-yolloh-bottl-gum-glutenfree.jpg" alt="...">
-          <h3>Glutenfree 115g</h3>
-          <h1>Yolloh Bottl Gum</h1>
+
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-party-mix-gelatinfree.jpg" alt="locher-food-produkt-yolloh-party-mix-gelatinfree">
+            <h3>Gelatinfree </h3>
+            <h1>Yolloh Party Mix</h1>
+            <p>40 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-cola-cherry-gelatinfree.jpg" alt="locher-food-produkt-yolloh-cola-cherry-gelatinfree">
+            <h3>Gelatinfree </h3>
+            <h1>Yolloh Cola Cherry </h1>
+            <p>125 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-yolloh-watsches-gelatinfree.jpg" alt="locher-food-produkt-yolloh-watsches-gelatinfree">
+            <h3>Gelatinfree </h3>
+            <h1>Yolloh Watsches</h1>
+            <p>70 g</p>
+          </div>
         </div>
       </div>
     </section>
-    <!--nextbrand-->
-    <div class="nextbrand">
-      <button class="c-yolloh" type="button" name="button">KONTAKT</button>
-      <a href="brand-savea"><button class="c-yolloh" type="button" name="button">WEITERE MARKEN</button></a>
-    </div>
   </div>
 
   <?php include 'footer.php'; ?>

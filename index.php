@@ -33,12 +33,12 @@
     </div>
     <div class="grid item4">
       <a href="brand-jaffa-champion">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-jaffa.jpg');"></div>
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-jaffa-champion.jpg');"></div>
         <h1 class="brandheadline">Jaffa Champion </h1>
       </a>
     </div>
     <div class="grid item5">
-      <a href="brand-niellsen-massey">
+      <a href="brand-os-bubble">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
         <h1 class="brandheadline">O's Bubble</h1>
       </a>

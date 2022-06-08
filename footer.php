@@ -6,13 +6,14 @@
   </div>
   <div class="foo-container">
     <p>Marken</p>
-    <a href="brand-niellsen-massey">Niellsen Massey</a>
+    <a href="brand-nielsen-massey">Nielsen Massey</a>
+    <a href="brand-yolloh">Yolloh</a>
+    <a href="brand-savea">Savea</a>
     <a href="brand-jaffa-champion">Jaffa Champion</a>
+    <a href="brand-os-bubble">O's Bubble</a>
     <a href="brand-heossbier">Hössbier</a>
     <a href="brand-hirschbraeu">Hirschbräu</a>
-    <a href="brand-yolloh">Yolloh</a>
     <a href="brand-herrbert">Herrbert</a>
-    <a href="brand-savea">Savea</a>
     <a href="brand-os-bubble">OS bubble</a>
     <a href="brand-minex">Minex</a>
     <a href="brand-vier-diamanten">Vier Diamanten</a>
