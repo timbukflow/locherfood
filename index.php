@@ -14,9 +14,9 @@
   <?php include 'header.php'; ?>
   <div class="gridcontainer">
     <div class="grid item1">
-      <a href="brand-niellsen-massey">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-niellsen-massey-nsa-truffles.jpg');"></div>
-        <h1 class="brandheadline">Niellsen Massey</h1>
+      <a href="brand-nielsen-massey">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-nielsen-massey.jpg');"></div>
+        <h1 class="brandheadline">Nielsen Massey</h1>
       </a>
     </div>
     <div class="grid item2">
@@ -69,12 +69,7 @@
     </div>
   </div>
 
-  <footer>
-    <a href="index"><button class="navbutton marken" type="button" name="button">MARKEN</button></a>
-     <a href="wir"><button class="navbutton wir" type="button" name="button">WIR</button></a>
-     <button class="navbutton kontakt" type="button" name="button">KONTAKT</button>
-  </footer>
-
+  <?php include 'footer.php'; ?>
   <?php include 'script.php'; ?>
 </body>
 </html>
