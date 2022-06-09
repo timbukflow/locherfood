@@ -38,9 +38,9 @@
       </a>
     </div>
     <div class="grid item5">
-      <a href="brand-os-bubble">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
-        <h1 class="brandheadline">O's Bubble</h1>
+      <a href="brand-minex">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-minex.jpg');"></div>
+        <h1 class="brandheadline">Minex</h1>
       </a>
     </div>
     <div class="grid item6">
@@ -56,15 +56,33 @@
       </a>
     </div>
     <div class="grid item8">
-      <a href="brand-niellsen-massey">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-minex.jpg');"></div>
-        <h1 class="brandheadline">Minex</h1>
+      <a href="brand-os-bubble">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
+        <h1 class="brandheadline">O's Bubble</h1>
       </a>
     </div>
     <div class="grid item9">
-      <a href="brand-niellsen-massey">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-hoessbier.jpg');"></div>
-        <h1 class="brandheadline">Hössbier</h1>
+      <a href="brand-herbertt">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-herbertt.jpg');"></div>
+        <h1 class="brandheadline">Herbertt</h1>
+      </a>
+    </div>
+    <div class="grid item10">
+      <a href="brand-lagadas">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-lagadas.jpg');"></div>
+        <h1 class="brandheadline">Lagadas</h1>
+      </a>
+    </div>
+    <div class="grid item11">
+      <a href="brand-os-bubble">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
+        <h1 class="brandheadline">O's Bubble</h1>
+      </a>
+    </div>
+    <div class="grid item12">
+      <a href="brand-herbertt">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-herbertt.jpg');"></div>
+        <h1 class="brandheadline">Herbertt</h1>
       </a>
     </div>
   </div>
