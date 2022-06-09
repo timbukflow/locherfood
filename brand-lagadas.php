@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Lagalas</title>
-    <meta name="description" content="Locher Food and Drink | Lagalas">
+    <title>Locher Food and Drink | Lagadas Farm</title>
+    <meta name="description" content="Locher Food and Drink | Lagadas Farm">
     <?php include 'head.php'; ?>
 </head>
 <body>

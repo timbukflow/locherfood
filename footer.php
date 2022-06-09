@@ -1,8 +1,9 @@
 <footer id="footer">
   <div class="foo-container">
     <p>Kontakt</p>
-    <a href="tel:+41798383137">Telefon</a>
-    <a href="mailto:l.cuomo@lochertrade.ch" target="_top">Mail</a>
+    <p class="name">Luigi Cuomo</p>
+    <a href="tel:+41798383137">T +41 79 838 31 37</a>
+    <a href="mailto:l.cuomo@lochertrade.ch" target="_top">l.cuomo@lochertrade.ch</a>
   </div>
   <div class="foo-container">
     <p>Marken</p>
@@ -15,9 +16,7 @@
     <a href="brand-vier-diamanten">Vier Diamanten</a>
     <a href="brand-os-bubble">O's Bubble</a>
     <a href="brand-herbertt">Herbertt</a>
-    <a href="brand-lagalas">Lagalas</a>
-
-    <a href="brand-heossbier">Hössbier</a>
+    <a href="brand-lagadas">Lagadas Farm</a>
     <a href="brand-hirschbraeu">Hirschbräu</a>
     <a href="brand-zanae">Zanae</a>
   </div>

@@ -17,11 +17,4 @@
 			</div>-->
 		</div>
 	</nav>
-	<div class="kontaktdata">
-
-			<p>Liebe Feinschmecker, gerne führen wir Sie durch die Welt der Düft und Aromen.</p>
-		
-			<a href="mailto:l.cuomo@lochertrade.ch" target="_top">l.cuomo@lochertrade.ch</a>
-
-	</div>
 </header>

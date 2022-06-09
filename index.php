@@ -74,15 +74,15 @@
       </a>
     </div>
     <div class="grid item11">
-      <a href="brand-os-bubble">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
-        <h1 class="brandheadline">O's Bubble</h1>
+      <a href="brand-hirschbraeu">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-hirschbraeu.jpg');"></div>
+        <h1 class="brandheadline">Hirschbräu</h1>
       </a>
     </div>
     <div class="grid item12">
-      <a href="brand-herbertt">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-herbertt.jpg');"></div>
-        <h1 class="brandheadline">Herbertt</h1>
+      <a href="brand-zanae">
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-zanae.jpg');"></div>
+        <h1 class="brandheadline">Zanae</h1>
       </a>
     </div>
   </div>
