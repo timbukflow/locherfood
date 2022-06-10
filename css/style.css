@@ -413,6 +413,16 @@ footer p, .ssweb {
 #impressum p {
   padding-top: 25px;
 }
+#optoutbanner99 a {
+  position: fixed;
+  font-size: 20px;
+  bottom: 0;
+  left: 0;
+  background-color: #ffffff;
+  padding: 15px 20px;
+  z-index: 200;
+  margin: 2% 4%;
+}
 
 /*----------------------------------
 responsive design
