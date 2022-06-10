@@ -10,7 +10,7 @@ $(document).ready(function () {
     // nav burgericon //
     $('#navburger').click(function(){
       $(this).stop(true).toggleClass('open');
-      $('.navcontainer').stop(true).slideToggle(500);
+      $('.navcontainer').stop(true).slideToggle(300);
     });
 
     // grid hover //

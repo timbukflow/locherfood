@@ -16,7 +16,7 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-nielsen-massey-start.jpg" alt="locher-food-brand-nielsen-massey-start">
+        <img class="nm-resp-fix" src="img/locher-food-brand-nielsen-massey-start.jpg" alt="locher-food-brand-nielsen-massey-start">
       </figure>
       <div class="description">
         <h1>Nielsen Massey</h1>
