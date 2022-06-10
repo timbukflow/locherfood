@@ -17,7 +17,7 @@
 <meta property="og:url" content="https://locherfood.ch/">
 <meta property="og:image" content="https://locherfood.ch/img/share.jpg">
 <meta property="og:image:secure_url" content="https://locherfood.ch/img/share.jpg">
-<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:type" content="img/jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Locher Food">
