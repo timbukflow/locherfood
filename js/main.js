@@ -2,28 +2,18 @@ $(document).ready(function () {
 
     // kontakt //
     $(".kontakt").click(function() {
-    $('html, body').animate({scrollTop: $("#footer").offset().top}, "slow"); return false;
+      $('.navcontainer').slideUp(300);
+      $('#navburger').removeClass('open');
+      $('html, body').animate({scrollTop: $("#footer").offset().top}, 1500); return false;
     });
 
     // nav burgericon //
-
-    $("#navburger").mouseover(function() {
-      $(this).children().css("background-color","#fff");
-      $(this).css("background-color","#295CA9");
-    }).mouseout(function(){
-      $(this).children().css("background-color","#295CA9");
-      $(this).css("background-color","#fff");
+    $('#navburger').click(function(){
+      $(this).stop(true).toggleClass('open');
+      $('.navcontainer').stop(true).slideToggle(500);
     });
 
-      $('#navburger').click(function(){
-    		$(this).stop(true).toggleClass('open');
-            //$('.nav').stop(true).fadeToggle(1000);
-            //$('.nav ul').stop(true).toggleClass('up');
-            //$('.nav li').stop(true).toggleClass('open');
-    	});
-
-
-    // grid hover
+    // grid hover //
     $('.grid').hover(function() {
       var brandhover = $(this).children();
       $(brandhover).children().first().toggleClass('fadeimg');
