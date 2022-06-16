@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Yolloh | Taste of Pleasure</title>
-    <meta name="description" content="Locher Food and Drink | Yolloh | Taste of Pleasure">
+    <title>Locher Food and Drink | Yolloh | Die besten Bonbons aus Belgien</title>
+    <meta name="description" content="Locher Food and Drink | Yolloh | Die besten Bonbons aus Belgien">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,9 @@
       </figure>
       <div class="description">
         <h1>Yolloh</h1>
-        <h2>Taste of Pleasure</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Die besten Bonbons aus Belgien</h2>
+        <p>Yolloh, eine 100% belgische Marke, besteht aus den besten Bonbonreferenzen, die der Markt je gesehen hat, und bietet Ihnen eine Fülle verschiedenster Geschmacksrichtungen und Aromen. Yolloh besteht aus 24 Referenzen und mischt eine grosse Vielfalt an Farben, Formen, Geschmacksrichtungen, aber auch an Texturen: geliert, stärkehaltig und gummiartig. Yolloh wird in drei Produktreihen angeboten: Vegan, gelatinefrei und glutenfrei.</p>
+        <img src="img/locher-food-brand-yolloh-vegan-glutenfree-gelatinefree.svg" alt="locher-food-brand-yolloh-vegan-glutenfree-gelatinefreet">
       </div>
       <!--products-->
       <div class="productscontainer">

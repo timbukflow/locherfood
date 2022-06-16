@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | O's Bubble </title>
-    <meta name="description" content="Locher Food and Drink | O's Bubble">
+    <title>Locher Food and Drink | O's Bubble | Die exklusive Teespezialität aus Taiwan </title>
+    <meta name="description" content="Locher Food and Drink | O's Bubble | Die exklusive Teespezialität aus Taiwan">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>O's Bubble</h1>
-        <h2>Untertitle</h2>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet</p>
+        <h2>Die exklusive Teespezialität aus Taiwan</h2>
+        <p>Die Reise von O’s Bubble begann in Taiwan, dem Ursprungsland der Teespezialität, die später als Bubble Tea weltbekannt wurde. In den letzten 30 Jahren haben diese hüpfenden, zähen und herrlich süssen Tapioka-Kugeln, die auch als «Boba» bekannt sind, die Sprach- und Kulturbarriere überwunden und wurden zum globalen Megatrend, den man in allen grossen Städten der Welt antreffen kann – und jetzt auch bei uns in der Schweiz!</p>
       </div>
       <!--products-->
       <div class="productscontainer">

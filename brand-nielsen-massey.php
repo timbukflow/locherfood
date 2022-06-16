@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Nielsen Massey | Pure Vanillas and Flavorings</title>
-    <meta name="description" content="Locher Food and Drink | Nielsen Massey | Pure Vanillas and Flavorings">
+    <title>Locher Food and Drink | Nielsen Massey | Feinste Qualität - Reine Vanillen und Aromen</title>
+    <meta name="description" content="Locher Food and Drink | Nielsen Massey | Feinste Qualität - Reine Vanillen und Aromen">
     <?php include 'head.php'; ?>
 </head>
 <body>

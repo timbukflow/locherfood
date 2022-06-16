@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | SAVEA</title>
-    <meta name="description" content="Locher Food and Drink | SAVEA">
+    <title>Locher Food and Drink | Savéa | Für alle, die Lust auf gesunde Snacks haben</title>
+    <meta name="description" content="Locher Food and Drink | Savéa | Für alle, die Lust auf gesunde Snacks haben">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -19,28 +19,28 @@
         <img src="img/locher-food-brand-savea-start.jpg" alt="locher-food-brand-savea-start">
       </figure>
       <div class="description">
-        <h1>SAVEA</h1>
-        <h2>Untertitle</h2>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <h1>Savéa</h1>
+        <h2>Für alle, die Lust auf gesunde Snacks haben</h2>
+        <p>Savéa wurde speziell entwickelt, um alle jene happy zu machen, die sich gerne mal mit einem feinen und vor allem auch rundum gesunden Snack verwöhnen lassen möchten. Savéa ist aufregend neu, organisch, wird aus Nüssen und Honig hergestellt, enthält maximal fünf Zutaten und ist zu 100% natürlich und glutenfrei. Ausserdem enthält Savéa weder Konservierungsmittel noch Cholesterin, hydriertes Fett und Farbstoffe. Na, alles unklar?</p>
       </div>
       <!--products-->
       <div class="productscontainer">
         <div class="productholder">
           <div class="products">
             <img src="img/locher-food-produkt-savea-sesame.jpg" alt="locher-food-produkt-savea-sesame">
-            <h3>SAVEA</h3>
+            <h3>Savéa</h3>
             <h1>Sesam Honig</h1>
             <p>40 g</p>
           </div>
           <div class="products">
             <img src="img/locher-food-produkt-savea-erdnuesse-honig.jpg" alt="locher-food-produkt-savea-erdnuesse-honig">
-            <h3>SAVEA</h3>
+            <h3>Savéa</h3>
             <h1>Erdnüsse Honig</h1>
             <p>40 g</p>
           </div>
           <div class="products">
             <img src="img/locher-food-produkt-savea-mandel-honig.jpg" alt="locher-food-produkt-savea-mandel-honig">
-            <h3>SAVEA</h3>
+            <h3>Savéa</h3>
             <h1>Mandel Honig</h1>
             <p>40 g</p>
           </div>

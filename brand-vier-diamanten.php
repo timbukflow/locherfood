@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Vier Diamanten </title>
-    <meta name="description" content="Locher Food and Drink | Vier Diamanten">
+    <title>Locher Food and Drink | Vier Diamanten | Thunfisch in Premiumqualität aus nachhaltigem Wildfang </title>
+    <meta name="description" content="Locher Food and Drink | Vier Diamanten | Thunfisch in Premiumqualität aus nachhaltigem Wildfang">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Vier Diamanten</h1>
-        <h2>Untertitle</h2>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet</p>
+        <h2>Thunfisch in Premiumqualität aus nachhaltigem Wildfang</h2>
+        <p>«Vertrauen Sie keiner Werbung. Vertrauen Sie Ihrem Geschmack!» Vier Diamanten ist die beliebteste und meistgekaufte Thunfisch-Marke Österreichs und steht seit 1963 nicht nur für eine herausragende Produktqualität, sondern auch sorgfältigste Zubereitung. Aber noch besser ist es, wenn Sie unsere Thunfischklassiker gleich selber probieren. Denn wie heisst es doch so schön? Reden ist Silber, Geniessen ist Vier Diamanten!</p>
       </div>
       <!--products-->
       <div class="productscontainer">

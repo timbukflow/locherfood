@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Hirschbräu</title>
-    <meta name="description" content="Locher Food and Drink | Hirschbräu">
+    <title>Locher Food and Drink | Hirschbräu | Qualität, Reinheit, Vielfalt und Wohlgeschmack</title>
+    <meta name="description" content="Locher Food and Drink | Hirschbräu | Qualität, Reinheit, Vielfalt und Wohlgeschmack">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Hirschbräu</h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Qualität, Reinheit, Vielfalt und Wohlgeschmack</h2>
+        <p>Die Privatbrauerei Höss, zuhause im deutschen Sonthofen, blickt auf über 350 Jahre Brauereigeschichte zurück – und bis heute ist ihre Liebe zum Bier ist ungebrochen. Nach wie vor hält man sich beim Hirschbräu streng ans Reinheitsgebot und die Brauer geben Tag für Tag ihr Bestes, um die Wünsche ihrer Kunden zu erfüllen und ihrem Anspruch gerecht zu werden. Kein Wunder, haben uns die feinen Biere des Hirschbräus vom ersten Schluck an begeistert!</p>
       </div>
       <!--products-->
       <div class="productscontainer">

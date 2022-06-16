@@ -321,12 +321,14 @@ brand-site
 .description {
   margin: 75px 20% 100px;
   display: inline-block;
+  text-align: center;
 }
 
 .description > * {text-align: center;}
 .description h2 {font-size: 25px; padding-top: 10px;}
 .description p {padding-top: 15px;}
-.description img {width: 200px;margin-bottom: 50px;}
+.description img {width: 60%; margin-top: 75px;}
+/*.description img {width: 200px; margin-bottom: 50px;}*/
 
 .productscontainer {
   display: inline-block;
@@ -472,6 +474,7 @@ responsive design
 
   /* Grid */
   .description {margin: 75px 10% 100px;}
+  .description img {width: 80%; margin-top: 50px;}
   .productholder {display: inline;}
   .products {display: inline-block; width: 49%;}
 

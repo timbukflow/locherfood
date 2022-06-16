@@ -9,7 +9,7 @@
     <p>Marken</p>
     <a href="brand-nielsen-massey">Nielsen Massey</a>
     <a href="brand-yolloh">Yolloh</a>
-    <a href="brand-savea">Savea</a>
+    <a href="brand-savea">Savéa</a>
     <a href="brand-jaffa-champion">Jaffa Champion</a>
     <a href="brand-minex">Minex</a>
     <a href="brand-sparta-groves">Sparta Groves</a>

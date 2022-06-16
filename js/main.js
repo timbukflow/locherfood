@@ -2,7 +2,6 @@ $(document).ready(function () {
 
     // kontakt //
     $(".kontakt").click(function() {
-      $('.navcontainer').slideUp(300);
       $('#navburger').removeClass('open');
       $('html, body').animate({scrollTop: $("#footer").offset().top}, 1500); return false;
     });

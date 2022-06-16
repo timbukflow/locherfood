@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Minex</title>
-    <meta name="description" content="Locher Food and Drink | Minex">
+    <title>Locher Food and Drink | Minex | Die beliebten Lebensmittel aus dem Kosovo</title>
+    <meta name="description" content="Locher Food and Drink | Minex | Die beliebten Lebensmittel aus dem Kosovo">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Minex</h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Die beliebten Lebensmittel aus dem Kosovo</h2>
+        <p>Im Kosovo kennt jedes Kind die Flips, die Salzsticks und die Fruchtsäfte von Minex. Und weil die Snacks und Drinks qualitativ schlicht und einfach überzeugen, überrascht es nicht, dass sie sich auch im Ausland einer immer grösseren Beliebtheit erfreuen. Wir freuen uns sehr, Ihnen eine Auswahl der feinen Minex-Produkte anzubieten – und sind sicher, dass schon in Bälde noch weitere hinzukommen werden!</p>
       </div>
       <!--products-->
       <div class="productscontainer">

@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Herbertt</title>
-    <meta name="description" content="Locher Food and Drink | Herbertt">
+    <title>Locher Food and Drink | Herbertt | So und nicht anders müssen Kräuterbonbons sein</title>
+    <meta name="description" content="Locher Food and Drink | Herbertt | So und nicht anders müssen Kräuterbonbons sein">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Herbertt</h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>So und nicht anders müssen Kräuterbonbons sein</h2>
+        <p>Zuckerfrei, glutenfrei, laktosefrei, vegan und vor allem sehr, sehr fein – die kultigen Kräuterbonbons aus dem helvetischen Hause Herbertt begeistern Connaisseurs mittlerweile seit über 70 Jahren. Wir führen eine kleine, aber feine Auswahl der faszinierendsten Geschmacksrichtungen und sind sicher, dass sie jede Kehle und jeden Gaumen im Land verwöhnen. Aber wann gönnen Sie sich denn Ihre allererste Packung?</p>
       </div>
       <!--products-->
       <div class="productscontainer">

@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Zanae</title>
-    <meta name="description" content="Locher Food and Drink | Zanae">
+    <title>Locher Food and Drink | Zanae | Das Beste, was Griechenland zu bieten hat</title>
+    <meta name="description" content="Locher Food and Drink | Zanae | Das Beste, was Griechenland zu bieten hat">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Zanae</h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Das Beste, was Griechenland zu bieten hat</h2>
+        <p>Zanae gehört heute zu den grössten und am schnellsten wachsenden Lebensmittelfirmen Griechenlands. Schon 1930 begannen die Gründer in Thessaloniki mit der Herstellung von Backhefe. Seitdem hat sich Zanae auf die Produktion von Konserven, Fertiggerichten und verarbeiteten Tomaten spezialisiert. Wir sind sehr stolz und happy, Ihnen eine Auswahl der besten und hochwertigsten Produkte aus dem Zanae-Sortiment anzubieten.</p>
       </div>
       <!--products-->
       <div class="productscontainer">

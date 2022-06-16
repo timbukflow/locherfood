@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Lagadas Farm</title>
-    <meta name="description" content="Locher Food and Drink | Lagadas Farm">
+    <title>Locher Food and Drink | Lagadas Farm Eingelegtes Gemüse und Antipasti vom Feinsten</title>
+    <meta name="description" content="Locher Food and Drink | Lagadas Farm Eingelegtes Gemüse und Antipasti vom Feinsten">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Lagadas Farm</h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Eingelegtes Gemüse und Antipasti vom Feinsten</h2>
+        <p>Mit dem grössten Respekt vor dem kulinarischen Erbe und der Tradition, aber auch vor der Erde und ihren Früchten, stellt das griechische Unternehmen Lagadas eingelegtes Gemüse und Antipasti her. Das Gemüse wird dabei in den eigenen Betrieben angebaut – was Frische und eine hohe Qualität der Produkte garantiert. Ein weiterer Faktor, der Lagadas einzigartig macht, ist die Tatsache, dass noch alles von Hand produziert wird.</p>
       </div>
       <!--products-->
       <div class="productscontainer">

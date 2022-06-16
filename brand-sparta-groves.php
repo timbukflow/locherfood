@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Sparta Groves </title>
-    <meta name="description" content="Locher Food and Drink | Sparta Groves ">
+    <title>Locher Food and Drink | Sparta Groves | Griechische Spezialitäten der besonderen Art </title>
+    <meta name="description" content="Locher Food and Drink | Sparta Groves | Griechische Spezialitäten der besonderen Art">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,14 +20,36 @@
       </figure>
       <div class="description">
         <h1>Sparta Groves </h1>
-        <h2>Untertitle</h2>
-        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
+        <h2>Griechische Spezialitäten der besonderen Art</h2>
+        <p>Bekannt geworden ist das griechische Familienunternehmen Sparta Groves mit seinem feinen Olivenöl, das ausschliesslich mit mechanischen Mitteln hergestellt wird – und zwar immer nur aus den besten frischen Oliven. Feinste Produkte auf Oliven-Basis finden Sie auch bei uns, daneben haben wir für Sie aber auch noch Salze der ganz besonderen Art in unser Sortiment aufgenommen. Am besten, Sie probieren Sie gleich aus – viel Vergnügen!</p>
       </div>
       <!--products-->
       <div class="productscontainer">
         <div class="productholder">
           <div class="products">
-            <img src="img/locher-food-produkt-sparta-groves-grenn-olives-whit-red-peppers.jpg" alt="llocher-food-produkt-sparta-groves-grenn-olives-whit-red-peppers">
+            <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-glas.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-glas">
+            <h3>Sparta Groves</h3>
+            <h1>Sparta Groves Green EVOO</h1>
+            <p>750 ml </p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction">
+            <h3>Sparta Groves</h3>
+            <h1>Sparta Groves Green EVOO </h1>
+            <p>150 g | 300 g</p>
+          </div>
+          <div class="products">
+            <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-pdo.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-pdo">
+            <h3>Sparta Groves</h3>
+            <h1>Sparta Groves New Classic</h1>
+            <p>1000 ml | 5000 ml </p>
+          </div>
+        </div>
+      </div>
+      <div class="productscontainer">
+        <div class="productholder">
+          <div class="products">
+            <img src="img/locher-food-produkt-sparta-groves-grenn-olives-whit-red-peppers.jpg" alt="locher-food-produkt-sparta-groves-grenn-olives-whit-red-peppers">
             <h3>Sparta Groves</h3>
             <h1>Grenn Olives whit Red Peppers</h1>
             <p>350 g </p>

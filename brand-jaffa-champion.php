@@ -6,8 +6,8 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Locher Food and Drink | Jaffa Champion</title>
-    <meta name="description" content="Locher Food and Drink | Jaffa Champion">
+    <title>Locher Food and Drink | Jaffa Champion | So müssen Soft Drinks heute sein</title>
+    <meta name="description" content="Locher Food and Drink | Jaffa Champion | So müssen Soft Drinks heute sein">
     <?php include 'head.php'; ?>
 </head>
 <body>
@@ -20,8 +20,8 @@
       </figure>
       <div class="description">
         <h1>Jaffa Champion</h1>
-        <h2>Untertitle</h2>
-        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <h2>So müssen Soft Drinks heute sein</h2>
+        <p>Jaffa Champion stellt eine breite Palette von Erfrischungsgetränken mit einem hohen Fruchtanteil her – Bio- und Frischprodukte mit vielen verschiedenen Geschmacksrichtungen wie Multivitamine, Orangen, Äpfel, Kirschen, Erdbeeren, Eistee und andere mehr. Und weil die Getränke so fein sind, setzen auch wir auf sie – kennen Sie sie auch schon?</p>
       </div>
       <!--products-->
       <div class="productscontainer">
