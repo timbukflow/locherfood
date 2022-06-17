@@ -16,9 +16,9 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-yolloh-start.jpg" alt="locher-food-brand-yolloh-start">
+        <img data-aos="fade-up" src="img/locher-food-brand-yolloh-start.jpg" alt="locher-food-brand-yolloh-start">
       </figure>
-      <div class="description">
+      <div data-aos="fade-up" class="description">
         <h1>Yolloh</h1>
         <h2>Die besten Bonbons aus Belgien</h2>
         <p>Yolloh, eine 100% belgische Marke, besteht aus den besten Bonbonreferenzen, die der Markt je gesehen hat, und bietet Ihnen eine Fülle verschiedenster Geschmacksrichtungen und Aromen. Yolloh besteht aus 24 Referenzen und mischt eine grosse Vielfalt an Farben, Formen, Geschmacksrichtungen, aber auch an Texturen: geliert, stärkehaltig und gummiartig. Yolloh wird in drei Produktreihen angeboten: Vegan, gelatinefrei und glutenfrei.</p>
@@ -27,19 +27,19 @@
       <!--products-->
       <div class="productscontainer">
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-cola-mix-vegan.jpg" alt="locher-food-produkt-yolloh-cola-mix-vegan">
             <h3>Vegan</h3>
             <h1>Yolloh Cola Mix</h1>
             <p>135 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-ufo-vegan.jpg" alt="locher-food-produkt-yolloh-ufo-vegan">
             <h3>Vegan </h3>
             <h1>Yolloh Ufo</h1>
             <p>25g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-seashell-vegan.jpg" alt="locher-food-produkt-yolloh-seashell-vegan">
             <h3>Vegan </h3>
             <h1>Yolloh Seashell</h1>
@@ -48,19 +48,19 @@
         </div>
 
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-whisltes-vegan.jpg" alt="locher-food-produkt-yolloh-whisltes-vegan">
             <h3>Vegan</h3>
             <h1>Yolloh Whisltes</h1>
             <p>30 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-babies-vegan.jpg" alt="locher-food-produkt-yolloh-babies-vegan">
             <h3>Vegan </h3>
             <h1>Yolloh Babies </h1>
             <p>135 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-black-rolls-vegan.jpg" alt="locher-food-produkt-yolloh-black-rolls-vegan">
             <h3>Vegan </h3>
             <h1>Yolloh Black Rolls</h1>
@@ -69,19 +69,19 @@
         </div>
 
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-acis-tongues-glutenfree.jpg" alt="locher-food-produkt-yolloh-acis-tongues-glutenfree">
             <h3>Glutenfree </h3>
             <h1>Yolloh Acis Tongues</h1>
             <p>135 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-besitos-glutenfree.jpg" alt="locher-food-produkt-yolloh-besitos-glutenfree">
             <h3>Glutenfree </h3>
             <h1>Yolloh Besitos</h1>
             <p>135 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-bottl-gum-glutenfree.jpg" alt="locher-food-produkt-yolloh-bottl-gum-glutenfree">
             <h3>Glutenfree </h3>
             <h1>Yolloh Bottl Gum</h1>
@@ -90,19 +90,19 @@
         </div>
 
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-party-mix-gelatinfree.jpg" alt="locher-food-produkt-yolloh-party-mix-gelatinfree">
             <h3>Gelatinfree </h3>
             <h1>Yolloh Party Mix</h1>
             <p>40 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-cola-cherry-gelatinfree.jpg" alt="locher-food-produkt-yolloh-cola-cherry-gelatinfree">
             <h3>Gelatinfree </h3>
             <h1>Yolloh Cola Cherry </h1>
             <p>125 g</p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-yolloh-watsches-gelatinfree.jpg" alt="locher-food-produkt-yolloh-watsches-gelatinfree">
             <h3>Gelatinfree </h3>
             <h1>Yolloh Watsches</h1>

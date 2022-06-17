@@ -6,6 +6,10 @@
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 
 <script>
     var gaProperty = 'UA-142487628-9';

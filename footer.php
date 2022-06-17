@@ -1,4 +1,4 @@
-<footer id="footer">
+<footer data-aos="fade-up" id="footer">
   <div class="foo-container">
     <p>Kontakt</p>
     <p class="name">Luigi Cuomo</p>
