@@ -29,14 +29,14 @@
           <div class="products">
             <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-glas.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-glas">
             <h3>Sparta Groves</h3>
-            <h1>Sparta Groves Green EVOO</h1>
+            <h1>Sparta Union</h1>
             <p>750 ml </p>
           </div>
           <div class="products">
             <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction">
             <h3>Sparta Groves</h3>
-            <h1>Sparta Groves Green EVOO </h1>
-            <p>150 g | 300 g</p>
+            <h1>Sparta Groves Premium </h1>
+            <p>500 ml</p>
           </div>
           <div class="products">
             <img src="img/locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-pdo.jpg" alt="locher-food-produkt-sparta-groves-extra-virgin-olive-oil-cold-extraction-pdo">
