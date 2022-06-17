@@ -2,8 +2,8 @@
   <div class="foo-container">
     <p>Kontakt</p>
     <p class="name">Luigi Cuomo</p>
-    <a href="tel:+41798383137">T +41 79 838 31 37</a>
-    <a href="mailto:luigi@locherfood.ch" target="_top">luigi@locherfood.ch</a>
+    <a href="tel:+41717472052">T +41 71 747 20 52</a>
+    <a href="mailto:cuomo@locherfood.ch" target="_top">cuomo@locherfood.ch</a>
   </div>
   <div class="foo-container">
     <p>Marken</p>
