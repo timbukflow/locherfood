@@ -3,7 +3,7 @@ $(document).ready(function () {
     // kontakt //
     $(".kontakt").click(function() {
       $('#navburger').removeClass('open');
-      $('html, body').animate({scrollTop: $("#footer").offset().top}, 1500); return false;
+      $('html, body').animate({scrollTop: $("#footer").offset().top - 200}, 1500); return false;
     });
 
     // nav burgericon //
