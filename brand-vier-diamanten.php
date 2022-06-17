@@ -16,9 +16,9 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-vier-diamanten-start.jpg" alt="locher-food-brand-vier-diamanten-start">
+        <img data-aos="fade-up" data-aos="zoom-in" src="img/locher-food-brand-vier-diamanten-start.jpg" alt="locher-food-brand-vier-diamanten-start">
       </figure>
-      <div class="description">
+      <div data-aos="fade-up" data-aos="zoom-in" class="description">
         <h1>Vier Diamanten</h1>
         <h2>Thunfisch in Premiumqualität aus nachhaltigem Wildfang</h2>
         <p>«Vertrauen Sie keiner Werbung. Vertrauen Sie Ihrem Geschmack!» Vier Diamanten ist die beliebteste und meistgekaufte Thunfisch-Marke Österreichs und steht seit 1963 nicht nur für eine herausragende Produktqualität, sondern auch sorgfältigste Zubereitung. Aber noch besser ist es, wenn Sie unsere Thunfischklassiker gleich selber probieren. Denn wie heisst es doch so schön? Reden ist Silber, Geniessen ist Vier Diamanten!</p>
@@ -26,19 +26,19 @@
       <!--products-->
       <div class="productscontainer">
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-vier-diamanten-thunfisch-naturell.jpg" alt="locher-food-produkt-vier-diamanten-thunfisch-naturell">
             <h3>Vier Diamanten</h3>
             <h1>Thunfisch Naturell </h1>
             <p>160 g </p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-vier-diamanten-thunfisch-sonnenblumen.jpg" alt="locher-food-produkt-vier-diamanten-thunfisch-sonnenblumen">
             <h3>Vier Diamanten</h3>
             <h1>Thunfisch Sonnenblumen </h1>
             <p>160 g </p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-vier-diamanten-thunfisch-olivenoel.jpg" alt="locher-food-produkt-vier-diamanten-thunfisch-olivenoel">
             <h3>Vier Diamanten</h3>
             <h1>Thunfisch Olivenöl </h1>
@@ -46,7 +46,7 @@
           </div>
         </div>
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-vier-diamanten-thunfisch-pikant.jpg" alt="locher-food-produkt-vier-diamanten-thunfisch-pikant">
             <h3>Vier Diamanten</h3>
             <h1>Thunfisch Pikant </h1>

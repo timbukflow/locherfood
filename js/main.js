@@ -3,7 +3,7 @@ $(document).ready(function () {
     // kontakt //
     $(".kontakt").click(function() {
       $('#navburger').removeClass('open');
-      $('html, body').animate({scrollTop: $("#footer").offset().top - 200}, 1500); return false;
+      $('html, body').animate({scrollTop: $("#footer").offset().top - 250}, 1500); return false;
     });
 
     // nav burgericon //
@@ -38,6 +38,6 @@ $(document).ready(function () {
    AOS.init({
      offset: 100, // offset (in px) from the original trigger point
      delay: 0, // values from 0 to 3000, with step 50ms
-     duration: 1500, // values from 0 to 3000, with step 50ms
+     duration: 2000, // values from 0 to 3000, with step 50ms
   })
 });

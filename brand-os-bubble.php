@@ -16,9 +16,9 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img src="img/locher-food-brand-o-s-bubble-start.jpg" alt="locher-food-brand-o-s-bubble-start">
+        <img data-aos="fade-up" src="img/locher-food-brand-o-s-bubble-start.jpg" alt="locher-food-brand-o-s-bubble-start">
       </figure>
-      <div class="description">
+      <div data-aos="fade-up" class="description">
         <h1>O's Bubble</h1>
         <h2>Die exklusive Teespezialität aus Taiwan</h2>
         <p>Die Reise von O’s Bubble begann in Taiwan, dem Ursprungsland der Teespezialität, die später als Bubble Tea weltbekannt wurde. In den letzten 30 Jahren haben diese hüpfenden, zähen und herrlich süssen Tapioka-Kugeln, die auch als «Boba» bekannt sind, die Sprach- und Kulturbarriere überwunden und wurden zum globalen Megatrend, den man in allen grossen Städten der Welt antreffen kann – und jetzt auch bei uns in der Schweiz!</p>
@@ -26,19 +26,19 @@
       <!--products-->
       <div class="productscontainer">
         <div class="productholder">
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-taro.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-taro">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Taro </h1>
             <p>470 ml Dose </p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Brown Sugar</h1>
             <p>470 ml Dose </p>
           </div>
-          <div class="products">
+          <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-bubble-tea-gummy-boba-thai-tea.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-thai-tea">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Thai Tea </h1>
