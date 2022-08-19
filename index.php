@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink</title>
-    <meta name="description" content="Locher Food and Drink">
+    <meta name="description" content="Wir sind Händler aus Passion und wenn wir mal wieder irgendwo eine kulinarische Köstlichkeit entdecken, die uns restlos begeistert, möchten wir diesen Schatz am liebsten gleich mit der ganzen Welt teilen.">
     <?php include 'head.php'; ?>
 </head>
 <body>

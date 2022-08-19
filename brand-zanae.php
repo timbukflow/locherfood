@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Zanae | Das Beste, was Griechenland zu bieten hat</title>
-    <meta name="description" content="Locher Food and Drink | Zanae | Das Beste, was Griechenland zu bieten hat">
+    <meta name="description" content="Das Beste, was Griechenland zu bieten hat - Zanae gehört heute zu den grössten und am schnellsten wachsenden Lebensmittelfirmen Griechenlands.">
     <?php include 'head.php'; ?>
 </head>
 <body>

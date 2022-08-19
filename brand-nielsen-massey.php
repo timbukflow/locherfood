@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Nielsen Massey | Feinste Qualität - Reine Vanillen und Aromen</title>
-    <meta name="description" content="Locher Food and Drink | Nielsen Massey | Feinste Qualität - Reine Vanillen und Aromen">
+    <meta name="description" content="Feinste Qualität - Reine Vanillen und Aromen. Nielsen Massey stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her.">
     <?php include 'head.php'; ?>
 </head>
 <body>

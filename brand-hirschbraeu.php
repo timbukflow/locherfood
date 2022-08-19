@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Hirschbräu | Qualität, Reinheit, Vielfalt und Wohlgeschmack</title>
-    <meta name="description" content="Locher Food and Drink | Hirschbräu | Qualität, Reinheit, Vielfalt und Wohlgeschmack">
+    <meta name="description" content="Qualität, Reinheit, Vielfalt und Wohlgeschmack, Hirschbräu Bier.">
     <?php include 'head.php'; ?>
 </head>
 <body>

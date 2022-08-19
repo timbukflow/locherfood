@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Jaffa Champion | So müssen Soft Drinks heute sein</title>
-    <meta name="description" content="Locher Food and Drink | Jaffa Champion | So müssen Soft Drinks heute sein">
+    <meta name="description" content="So müssen Soft Drinks heute sein. Jaffa Champion stellt eine breite Palette von Erfrischungsgetränken mit einem hohen Fruchtanteil her. ">
     <?php include 'head.php'; ?>
 </head>
 <body>

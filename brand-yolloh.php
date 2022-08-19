@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Yolloh | Die besten Bonbons aus Belgien</title>
-    <meta name="description" content="Locher Food and Drink | Yolloh | Die besten Bonbons aus Belgien">
+    <meta name="description" content="Die besten Bonbons aus Belgien - Yolloh, eine 100% belgische Marke, besteht aus den besten Bonbonreferenzen, die der Markt je gesehen hat. Yolloh wird in drei Produktreihen angeboten: Vegan, gelatinefrei und glutenfrei.">
     <?php include 'head.php'; ?>
 </head>
 <body>

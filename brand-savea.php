@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Savéa | Für alle, die Lust auf gesunde Snacks haben</title>
-    <meta name="description" content="Locher Food and Drink | Savéa | Für alle, die Lust auf gesunde Snacks haben">
+    <meta name="description" content="Für alle, die Lust auf gesunde Snacks haben. Savéa wurde speziell entwickelt, um alle jene happy zu machen, die sich gerne mal mit einem feinen und vor allem auch rundum gesunden Snack verwöhnen lassen möchten.">
     <?php include 'head.php'; ?>
 </head>
 <body>

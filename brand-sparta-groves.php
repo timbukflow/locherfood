@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Sparta Groves | Griechische Spezialitäten der besonderen Art </title>
-    <meta name="description" content="Locher Food and Drink | Sparta Groves | Griechische Spezialitäten der besonderen Art">
+    <meta name="description" content="Griechische Spezialitäten der besonderen Art. Bekannt geworden ist das griechische Familienunternehmen Sparta Groves mit seinem feinen Olivenöl, das ausschliesslich mit mechanischen Mitteln hergestellt wird – und zwar immer nur aus den besten frischen Oliven.">
     <?php include 'head.php'; ?>
 </head>
 <body>

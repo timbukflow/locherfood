@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Lagadas Farm Eingelegtes Gemüse und Antipasti vom Feinsten</title>
-    <meta name="description" content="Locher Food and Drink | Lagadas Farm Eingelegtes Gemüse und Antipasti vom Feinsten">
+    <meta name="description" content="Eingelegtes Gemüse und Antipasti vom Feinsten. Mit dem grössten Respekt vor dem kulinarischen Erbe und der Tradition, aber auch vor der Erde und ihren Früchten, stellt das griechische Unternehmen Lagadas eingelegtes Gemüse und Antipasti her.">
     <?php include 'head.php'; ?>
 </head>
 <body>

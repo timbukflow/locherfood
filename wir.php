@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Wir</title>
-    <meta name="description" content="Locher Food and Drink | Wir">
+    <meta name="description" content="Unser Zuhause ist die Welt. Sie spüren, weshalb wir es zu unserer Mission gemacht haben, Ihnen in unserem Shop ein sorgfältig kuratiertes Sortiment an wunderprächtigen Lebensmitteln anzubieten.">
     <?php include 'head.php'; ?>
 </head>
 <body>

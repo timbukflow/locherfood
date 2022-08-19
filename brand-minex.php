@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Minex | Die beliebten Lebensmittel aus dem Kosovo</title>
-    <meta name="description" content="Locher Food and Drink | Minex | Die beliebten Lebensmittel aus dem Kosovo">
+    <meta name="description" content="Die beliebten Lebensmittel aus dem Kosovo. Im Kosovo kennt jedes Kind die Flips, die Salzsticks und die Fruchtsäfte von Minex.">
     <?php include 'head.php'; ?>
 </head>
 <body>

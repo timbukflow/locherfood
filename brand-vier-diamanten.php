@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Vier Diamanten | Thunfisch in Premiumqualität aus nachhaltigem Wildfang </title>
-    <meta name="description" content="Locher Food and Drink | Vier Diamanten | Thunfisch in Premiumqualität aus nachhaltigem Wildfang">
+    <meta name="description" content="Thunfisch in Premiumqualität aus nachhaltigem Wildfang. Vertrauen Sie keiner Werbung. Vertrauen Sie Ihrem Geschmack!» Vier Diamanten ist die beliebteste und meistgekaufte Thunfisch-Marke">
     <?php include 'head.php'; ?>
 </head>
 <body>

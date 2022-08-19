@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | Herbertt | So und nicht anders müssen Kräuterbonbons sein</title>
-    <meta name="description" content="Locher Food and Drink | Herbertt | So und nicht anders müssen Kräuterbonbons sein">
+    <meta name="description" content="So und nicht anders müssen Kräuterbonbons sein. Zuckerfrei, glutenfrei, laktosefrei, vegan und vor allem sehr, sehr fein">
     <?php include 'head.php'; ?>
 </head>
 <body>
