@@ -1,7 +1,7 @@
 <footer data-aos="fade-up" id="footer">
   <div class="foo-container">
     <p>Kontakt</p>
-    <p class="name">Luigi Cuomo</p>
+    <!-- <p class="name">Luigi Cuomo</p> -->
     <a href="tel:+41717472052">T +41 71 747 20 52</a>
     <a href="mailto:cuomo@locherfood.ch" target="_top">cuomo@locherfood.ch</a>
   </div>
