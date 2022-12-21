@@ -38,12 +38,12 @@
             <h1>Gummy Boba Latte Brown Sugar</h1>
             <p>470 ml Dose </p>
           </div>
-          <div data-aos="zoom-in" class="products">
+          <!-- <div data-aos="zoom-in" class="products">
             <img src="img/locher-food-produkt-bubble-tea-gummy-boba-thai-tea.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-thai-tea">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Thai Tea </h1>
             <p>470 ml Dose </p>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
