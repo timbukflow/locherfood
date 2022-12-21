@@ -16,7 +16,7 @@
     <!--container-brand-->
     <section class="brandcontainer">
       <figure>
-        <img data-aos="fade-up" src="img/locher-food-brand-o-s-bubble-start.jpg" alt="locher-food-brand-o-s-bubble-start">
+        <img data-aos="fade-up" src="img/locher-food-brand-o-s-bubble-start-new.jpg" alt="locher-food-brand-o-s-bubble-start">
       </figure>
       <div data-aos="fade-up" class="description">
         <h1>O's Bubble</h1>
@@ -27,13 +27,13 @@
       <div class="productscontainer">
         <div class="productholder">
           <div data-aos="zoom-in" class="products">
-            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-taro.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-taro">
+            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-taro-new.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-taro">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Taro </h1>
             <p>470 ml Dose </p>
           </div>
           <div data-aos="zoom-in" class="products">
-            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar">
+            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar-new.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Brown Sugar</h1>
             <p>470 ml Dose </p>

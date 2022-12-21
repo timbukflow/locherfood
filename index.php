@@ -57,7 +57,7 @@
     </div>
     <div data-aos="fade-up" class="grid item8">
       <a href="brand-os-bubble">
-        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble.jpg');"></div>
+        <div class="brandimg" style="background-image: url('img/locher-food-brand-o-s-bubble-new.jpg');"></div>
         <h1 class="brandheadline">O's Bubble</h1>
       </a>
     </div>
