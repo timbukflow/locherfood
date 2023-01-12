@@ -8,6 +8,7 @@
   <div class="foo-container">
     <p>Marken</p>
     <a href="brand-nielsen-massey">Nielsen Massey</a>
+    <a href="brand-coconut-water">Coconut Water</a>
     <a href="brand-yolloh">Yolloh</a>
     <a href="brand-savea">Savéa</a>
     <a href="brand-jaffa-champion">Jaffa Champion</a>
