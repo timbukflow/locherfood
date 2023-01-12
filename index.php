@@ -20,7 +20,7 @@
       </a>
     </div>
     <div data-aos="fade-up" class="grid item2">
-      <a href="coconut-water">
+      <a href="brand-coconut-water">
         <div class="brandimg" style="background-image: url('img/locher-food-brand-coconut-water.jpg');"></div>
         <h1 class="brandheadline">Coconut Water</h1>
       </a>
