@@ -34,10 +34,10 @@
       </p>
       <p>
         Design &amp; Code:<br>
-        Schwizer &amp; Schlatter GmbH<br>
-        Davidstrasse 45<br>
-        CH-9000 St.Gallen<br>
-        <a class="ssweb" href="https://schwizerschlatter.com/" target="_blank">www.schwizerschlatter.com</a>
+        Schwizer Design GmbH<br>
+        Gallusstrasse 43<br>
+        9000 St. Gallen<br>
+        <a class="ssweb" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
       </p>
     </div>
   </div>
