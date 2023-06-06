@@ -35,8 +35,7 @@
       <p>
         Design &amp; Code:<br>
         Schwizer Design GmbH<br>
-        Gallusstrasse 43<br>
-        9000 St. Gallen<br>
+        <a class="ssweb" href="https://goo.gl/maps/bBmLDGMJSYqbwbmj8">Gallusstrasse 43<br>9000 St. Gallen</a><br>
         <a class="ssweb" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
       </p>
     </div>
