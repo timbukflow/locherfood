@@ -1,7 +1,7 @@
 <div id="cookiebanner">
   <p>Wir verwenden Cookies, um Ihnen das beste Online-Erlebnis zu bieten. Mit Ihrer Zustimmung akzeptieren Sie die Verwendung von Cookies.</p>
   <button id="acceptBtn">Okay</button>
-  <button id="declineBtn">Ich lehne ab</button>
+  <button id="declineBtn">Nein, danke</button>
 </div>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EMZH7WEHRZ"></script>
