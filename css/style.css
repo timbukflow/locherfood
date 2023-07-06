@@ -45,7 +45,7 @@ button {
   margin: 0;
   padding: 15px 20px;
   border-radius: 50px;
-  transition: all 0.5s;
+  transition: background-color 0.5s, color 0.5s;
 }
 
 button:hover {
@@ -262,12 +262,12 @@ brand grid
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  transition: all 0.5s ease-in-out;
+  transition: filter 0.5s ease-in-out;
 }
 .brandimg.fadeimg {
   filter: brightness(0.5);
-  background-position: left;
 }
+
 .item1 { grid-row: 1 / 4;}
 .item2 { grid-row: 1 / 5;}
 .item3 { grid-row: 1 / 4;}
@@ -288,7 +288,7 @@ h1.brandheadline {
   position: absolute;
   top: -20px;
   opacity: 0;
-  transition: all 0.5s ease-in-out ;
+  transition: top 0.5s ease-in-out, opacity 0.5s ease-in-out ;
 }
 h1.brandheadline.fade {
   top: 0;
