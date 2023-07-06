@@ -13,6 +13,5 @@
 			<a href="wir"><button class="navbutton wir" type="button" name="button">WIR</button></a>
 			<button class="kontakt" type="button" name="button">KONTAKT</button>
 		</div>
-
 	</nav>
 </header>

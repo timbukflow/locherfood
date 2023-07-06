@@ -1,12 +1,3 @@
-/*
-    Theme Name: Locher Food
-    Description: Locher Food
-    Version: 1.0
-    Author: Schwizer & Schlatter
-    Author URI: http://schwizerschlatter.com
-    Tags: No Tags
-*/
-
 body {
   padding-top: 105px;
 }
@@ -400,11 +391,13 @@ footer p, .ssweb {
 }
 .impressum{
   display: inline-block;
+  cursor: pointer;
 }
 .totop {
   position: absolute;
   bottom: 0;
   right: 0;
+  cursor: pointer;
 }
 #impressum {
   display: none;
@@ -412,16 +405,66 @@ footer p, .ssweb {
 #impressum p {
   padding-top: 25px;
 }
-#optoutbanner99 a {
+
+
+/*----------------------------------
+    Cookiebanner
+-----------------------------------*/
+
+#cookiebanner {
   position: fixed;
-  font-size: 20px;
-  bottom: 0;
-  left: 0;
-  background-color: #ffffff;
-  padding: 15px 20px;
-  z-index: 200;
-  margin: 2% 4%;
+  bottom: -300px;
+  left: 40px;
+  border-radius: 10px;
+  width: 350px;
+  background-color: white;
+  padding: 15px;
+  z-index: 9999;
+  transition: bottom 0.5s cubic-bezier(0.2, 0.8, 0.3, 2);
 }
+
+#cookiebanner p {
+  color: black;
+  margin: 0;
+}
+
+#cookiebanner.visible {
+  bottom: 25px;
+}
+
+#cookiebanner button {
+  font-size: 20px;
+  letter-spacing: 0;
+  text-decoration: none; 
+}
+
+#declineBtn, #acceptBtn {
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+#declineBtn {
+  padding: 10px 20px;
+  background:none;
+  border: 1px solid gray; 
+  color: gray;
+  opacity: 0.5;
+}
+
+#acceptBtn {
+  border: none;
+  padding: 10px 40px;
+  background: black;
+  color: white;
+  margin-right: 5px;
+}
+
+#acceptBtn:hover,
+#declineBtn:hover {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0.75; ;
+}
+
 
 /*----------------------------------
 responsive design
@@ -519,4 +562,7 @@ responsive design
   .name {padding-bottom: 10px!important;}
   .totop img { width: 40px; height: 40px;}
   #impressum {padding-bottom: 75px;}
+
+  #cookiebanner {width: calc(100% - 70px); left: 20px;}
+  #cookiebanner.visible {bottom: 60px;}
 }

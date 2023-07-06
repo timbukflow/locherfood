@@ -22,7 +22,7 @@
     <a href="brand-zanae">Zanae</a>
   </div>
   <div class="foo-impressum">
-    <div class="impressum" data-toggle="#impressum"><p>Impressum</p></div>
+    <div class="impressum" data-target="#impressum"><p>Impressum</p></div>
     <div class="totop"><img src="img/locher-food-totop.svg" alt="locher-food-totop" width="60" height="60"></div>
     <div id="impressum">
       <p>
