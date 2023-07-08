@@ -1,4 +1,4 @@
-<div id="cookiebanner" class="bg">
+<div id="cookiebanner">
   <p>Wir verwenden Cookies, um Ihnen das beste Online-Erlebnis zu bieten. Mit Ihrer Zustimmung akzeptieren Sie die Verwendung von Cookies.</p>
   <button id="acceptBtn">Okay</button>
   <button id="declineBtn">Nein, danke</button>
