@@ -247,7 +247,7 @@ brand grid
   margin: 0 2%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: repeat(13, 18vh);
+  grid-template-rows: repeat(16, 17vh);
   grid-gap: 10px;
 }
 
@@ -278,9 +278,11 @@ brand grid
 .item8 { grid-row: 8 / 11;}
 .item9 { grid-row: 7 / 10;}
 .item10 { grid-row: 10 / 14;}
-.item11 { grid-row: 10 / 12;}
-.item12 { grid-row: 11 / 14;}
-.item13 { grid-row: 12 / 14;}
+.item11 { grid-row: 10 / 14;}
+.item12 { grid-row: 11 / 15;}
+.item13 { grid-row: 14 / 17;}
+.item14 { grid-row: 15 / 17;}
+.item15 { grid-row: 14 / 17;}
 
 h1.brandheadline {
   color: #fff;

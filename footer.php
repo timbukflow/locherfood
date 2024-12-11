@@ -1,12 +1,14 @@
 <footer data-aos="fade-up" id="footer">
   <div class="foo-container">
     <p>Kontakt</p>
-    <!-- <p class="name">Luigi Cuomo</p> -->
+    <p class="name">Luigi Cuomo</p>
     <a href="tel:+41717472052">T +41 71 747 20 52</a>
     <a href="mailto:cuomo@locherfood.ch" target="_top">cuomo@locherfood.ch</a>
   </div>
   <div class="foo-container">
     <p>Marken</p>
+    <a href="brand-ganicwater">Ganicwater</a>
+    <a href="brand-henderson-and-sons">Henderson and Sons</a>
     <a href="brand-nielsen-massey">Nielsen Massey</a>
     <a href="brand-coconut-water">Coconut Water</a>
     <a href="brand-yolloh">Yolloh</a>
@@ -28,8 +30,8 @@
       <p>
         Copyright:<br>
         Locher Trade RG AG<br>
-        Wieslistrasse 15<br>
-        CH-9434 Au SG<br>
+        Viscosestrasse 46<br>
+        CH-9443 Widnau SG<br>
         <a class="ssweb" href="https://lochertrade.ch/" target="_blank">www.lochertrade.ch</a>
       </p>
       <p>
