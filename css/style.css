@@ -349,6 +349,25 @@ brand-site
 .products h3 {font-size: 18px; font-weight: 400; padding-bottom: 5px;}
 .products p {font-size: 15px; padding-top: 5px;}
 
+/* Factsheet */
+.factsheetcontainer {
+  border-top: 5px solid #000;
+  padding: 20px 40px 0px;
+}
+.factsheets {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.factsheets a {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.material-symbols-outlined {
+  font-size: 48px !important;
+}
 /*----------------------------------
 footer
 -----------------------------------*/

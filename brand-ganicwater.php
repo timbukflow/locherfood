@@ -63,6 +63,16 @@
           </div>
         </div>
       </div>
+
+      <!--container-factsheet-->
+      <div class="factsheetcontainer">
+        <div class="factsheets">
+          <h2>Ganicwater Factsheet</h2>
+          <a href="download/locher-food-factsheet-ganicwater.pdf" target="_blank" download="locher-food-factsheet-ganicwater.pdf">
+            Download (PDF)<span class="material-symbols-outlined">download</span>
+          </a>
+        </div>
+      </div>
     </section>
   </div>
 
