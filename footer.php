@@ -7,7 +7,9 @@
   </div>
   <div class="foo-container">
     <p>Marken</p>
-    <a href="brand-ganicwater">Ganicwater</a>
+    <a href="brand-ganicwater">Ganicwater</a> 
+    <a href="brand-salitos">Salitos</a>
+    <a href="brand-jelly-popping-boba">Jelly Popping Boba</a>
     <a href="brand-henderson-and-sons">Henderson and Sons</a>
     <a href="brand-nielsen-massey">Nielsen Massey</a>
     <a href="brand-coconut-water">Coconut Water</a>

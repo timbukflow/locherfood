@@ -29,6 +29,15 @@
             <p>250 ml Dose </p>
           </div>
       </div>
+      <!--container-factsheet-->
+      <div class="factsheetcontainer">
+        <div class="factsheets">
+          <h2>Coconut Water Factsheet</h2>
+          <a href="download/locher-food-coconut-water.pdf" target="_blank" download="locher-food-coconut-water.pdf">
+            Download (PDF)<span class="material-symbols-outlined">download</span>
+          </a>
+        </div>
+      </div>
     </section>
   </div>
 
