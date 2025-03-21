@@ -1,6 +1,7 @@
 {
     "name": "Locher Food",
     "short_name": "Locher Food",
+    "description": "Wir sind Händler aus Passion und wenn wir mal wieder irgendwo eine kulinarische Köstlichkeit entdecken, die uns restlos begeistert, möchten wir diesen Schatz am liebsten gleich mit der ganzen Welt teilen.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +14,84 @@
             "type": "image/png"
         }
     ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
-}
+    "scope": "/",
+    "shortcuts": [
+      {
+        "name": "Salitos",
+        "short_name": "Salitos",
+        "description": "Mexikanisches Bier & Cocktails",
+        "url": "/brand-salitos"
+      },
+      {
+        "name": "Ganic Water",
+        "short_name": "Ganic",
+        "description": "Natürliches Wasser mit Geschmack",
+        "url": "/brand-ganic-water"
+      },
+      {
+        "name": "Jelly Popping Boba",
+        "short_name": "Jelly Popping Boba",
+        "description": "Das einzig wahre Jelly Popping Boba!",
+        "url": "/brand-jelly-popping-boba"
+      },
+      {
+        "name": "Henderson and Sonsa",
+        "short_name": "Henderson and Sons",
+        "description": "Von knusprigen Tortilla-Chips mit würzigen Dips über knackige Nussmischungen bis hin zu Multigrain-Quinoa-Crisps. Genuss, der begeistert und Ihre Verkäufe steigert!",
+        "url": "/brand-henderson-and-sons"
+      },
+      {
+        "name": "O's Bubble Tea",
+        "short_name": "Bubble Tea",
+        "description": "Die exklusive Teespezialität aus Taiwan. Die Reise von O's Bubble begann in Taiwan, dem Ursprungsland der Teespezialität, die später als Bubble Tea weltbekannt wurde.",
+        "url": "/brand-os-bubble"
+      },
+      {
+        "name": "Coconut Water",
+        "short_name": "Coconut Water",
+        "description": "Mit dem 100% natürlichen Kokosnusswasser kommt immer und überall Strandfeeling auf! Coconut Water enthält nützliche Antioxidantien und ist vor allem eine natürliche Kaliumquelle. Wieso Kalium wichtig für Sie ist? Weil Kalium zu einer normalen Muskelfunktion und zur Aufrechterhaltung eines normalen Blutdrucks beiträgt – was bedeutet, dass das Coconut Water die perfekte Erfrischung nach dem Sport ist! Enjoy!.",
+        "url": "/brand-coconut-water"
+      },
+      {
+        "name": "Yolloh",
+        "short_name": "Yolloh",
+        "description": "Die besten Bonbons aus Belgien - Yolloh, eine 100% belgische Marke, besteht aus den besten Bonbonreferenzen, die der Markt je gesehen hat. Yolloh wird in drei Produktreihen angeboten: Vegan, gelatinefrei und glutenfrei.",
+        "url": "/brand-yolloh"
+      },
+      {
+        "name": "Savéa",
+        "short_name": "Savéa",
+        "description": "Für alle, die Lust auf gesunde Snacks haben. Savéa wurde speziell entwickelt, um alle jene happy zu machen, die sich gerne mal mit einem feinen und vor allem auch rundum gesunden Snack verwöhnen lassen möchten.",
+        "url": "/brand-savea"
+      },
+      {
+        "name": "Sparta Groves",
+        "short_name": "Sparta Groves",
+        "description": "Griechische Spezialitäten der besonderen Art. Bekannt geworden ist das griechische Familienunternehmen Sparta Groves mit seinem feinen Olivenöl, das ausschliesslich mit mechanischen Mitteln hergestellt wird – und zwar immer nur aus den besten frischen Oliven.",
+        "url": "/brand-sparta-groves"
+      },
+      {
+        "name": "Vier Diamanten - Thunfisch in Premiumqualität",
+        "short_name": "Vier Diamanten",
+        "description": "Thunfisch in Premiumqualität aus nachhaltigem Wildfang. Vertrauen Sie keiner Werbung. Vertrauen Sie Ihrem Geschmack!» Vier Diamanten ist die beliebteste und meistgekaufte Thunfisch-Marke",
+        "url": "/brand-vier-diamanten"
+      },
+      {
+        "name": "Minex - Die beliebten Lebensmittel aus dem Kosovo",
+        "short_name": "Minex",
+        "description": "Die beliebten Lebensmittel aus dem Kosovo. Im Kosovo kennt jedes Kind die Flips, die Salzsticks und die Fruchtsäfte von Minex.",
+        "url": "/brand-minex"
+      },
+      {
+        "name": "Nielsen Massey | Feinste Qualität - Reine Vanillen und Aromen",
+        "short_name": "Nielsen Massey",
+        "description": "Feinste Qualität - Reine Vanillen und Aromen. Nielsen Massey stellt seit 1907 die besten reinen und natürlichen Vanilleprodukte der Welt her.",
+        "url": "/brand-nielsen-massey"
+      }
+    ]
+  }

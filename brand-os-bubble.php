@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Locher Food and Drink | O's Bubble | Die exklusive Teespezialität aus Taiwan </title>
-    <meta name="description" content="Die exklusive Teespezialität aus Taiwan. Die Reise von O’s Bubble begann in Taiwan, dem Ursprungsland der Teespezialität, die später als Bubble Tea weltbekannt wurde.">
+    <meta name="description" content="Die exklusive Teespezialität aus Taiwan. Die Reise von O's Bubble begann in Taiwan, dem Ursprungsland der Teespezialität, die später als Bubble Tea weltbekannt wurde.">
     <?php include 'head.php'; ?>
 </head>
 <body>

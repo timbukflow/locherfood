@@ -7,93 +7,128 @@
 
 <url>
   <loc>https://locherfood.ch/</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://locherfood.ch/index</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://locherfood.ch/wir</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-salitos</loc>
-  <lastmod>2025-03-20T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-jelly-popping-boba</loc>
-  <lastmod>2025-03-20T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-ganicwater</loc>
-  <lastmod>2025-03-20T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-salitos</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-jelly-popping-boba</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-henderson-and-sons</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-nielsen-massey</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-yolloh</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-savea</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-jaffa-champion</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-minex</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-sparta-groves</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://locherfood.ch/brand-vier-diamanten</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-os-bubble</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-coconut-water</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-yolloh</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-savea</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-jaffa-champion</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-minex</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-sparta-groves</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-vier-diamanten</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/brand-nielsen-massey</loc>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-herbertt</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-lagadas</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-hirschbraeu</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://locherfood.ch/brand-zanae</loc>
-  <lastmod>2024-12-01T14:00:00+00:00</lastmod>
+  <lastmod>2025-03-21T06:54:43+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/download/locher-food-factsheet-ganicwater.pdf</loc>
+  <lastmod>2025-03-20T13:05:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/download/locher-food-salitos-factsheet.pdf</loc>
+  <lastmod>2025-03-20T13:05:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/download/locher-food-salitos-salesfolder.pdf</loc>
+  <lastmod>2025-03-20T13:05:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/download/locher-food-factsheet-jelly-popping-boba.pdf</loc>
+  <lastmod>2025-03-20T13:05:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://locherfood.ch/download/locher-food-coconut-water.pdf</loc>
+  <lastmod>2025-03-20T13:05:25+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

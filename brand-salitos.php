@@ -5,6 +5,27 @@
     <title>Locher Food and Drink | Salitos | Viva la Vida — Viva Salitos</title>
     <meta name="description" content="Viva la Vida — Viva Salitos - Salitos steht für kompromisslosen Geschmack, Qualität und eiskalte Erfrischung. Und das seit über 20 Jahren. Wir inspirieren Menschen und bewegen die Massen mit unserem südamerikanischen Lebensgefühl.">
     <?php include 'head.php'; ?>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Salitos",
+      "image": "https://locherfood.ch/img/locher-food-brand-salitos",
+      "description": "Salitos ist ein erfrischendes mexikanisches Bier mit einzigartigem Geschmack. Jetzt für Händler verfügbar.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Salitos"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://locherfood.ch/brand-salitos",
+        "priceCurrency": "CHF",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+
 </head>
 <body>
   <?php include 'header.php'; ?>
