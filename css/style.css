@@ -404,6 +404,44 @@ video {
 .material-symbols-outlined {
   font-size: 36px !important;
 }
+
+/*----------------------------------
+age-lock
+-----------------------------------*/
+body.age-lock {
+  overflow: hidden;
+}
+
+#age-gate-overlay {
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.age-gate-modal {
+  background: white;
+  padding: 30px;
+  max-width: 400px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+}
+
+.age-gate-modal button {
+  margin-top: 20px;
+  padding: 20px 40px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+
 /*----------------------------------
 footer
 -----------------------------------*/

@@ -29,6 +29,12 @@ $(document).ready(function () {
     });
   });
 
+  // age lock //
+      document.getElementById('confirm-age').addEventListener('click', function () {
+      document.getElementById('age-gate-overlay').style.display = 'none';
+      document.body.classList.remove('age-lock');
+    });
+
   // totop //
   $(".totop").click(function() {
     $("html, body").animate({ scrollTop: 0 }, "slow");

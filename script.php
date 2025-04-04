@@ -4,4 +4,9 @@
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script>AOS.init();</script>
+<script>
+  AOS.init({
+    duration: 800,
+    easing: 'ease-in-out'
+  });
+</script>
