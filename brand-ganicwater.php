@@ -106,6 +106,19 @@
       "brand": {
         "@type": "Brand",
         "name": "Locher Food"
+      },
+      "review": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anna M."
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.8",
+          "bestRating": "5"
+        },
+        "reviewBody": "Tolles Produkt! Schmeckt super, ist gesund und praktisch für unterwegs."
       }
     }
   ]
