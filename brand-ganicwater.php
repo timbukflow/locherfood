@@ -106,11 +106,6 @@
       "brand": {
         "@type": "Brand",
         "name": "Locher Food"
-      },
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "CHF",
-        "availability": "https://schema.org/InStock"
       }
     }
   ]
