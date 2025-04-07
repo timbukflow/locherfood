@@ -107,10 +107,18 @@
           "@type": "Brand",
           "name": "Herbertt"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sabine G."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.9",
+            "bestRating": "5"
+          },
+          "reviewBody": "Ich liebe die Herbertt Bonbons – vor allem die Sorte Citrus und Plantae ist super erfrischend! Dass sie zuckerfrei und vegan sind, macht sie für mich zur perfekten Wahl."
         }
       }
     ]
