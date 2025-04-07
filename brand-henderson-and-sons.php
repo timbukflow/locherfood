@@ -107,10 +107,18 @@
           "@type": "Brand",
           "name": "Henderson and Sons"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pascal H."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.7",
+            "bestRating": "5"
+          },
+          "reviewBody": "Die Henderson and Sons Tortilla Chips Nacho Cheese sind mein Snack-Favorit für Filmabende. Der Käsegeschmack ist intensiv und die Konsistenz super knusprig – ideal zum Dippen. Auch unsere Gäste lieben sie!"
         }
       }
     ]
