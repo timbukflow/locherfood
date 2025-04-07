@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Savéa"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tanja V."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.7",
+            "bestRating": "5"
+          },
+          "reviewBody": "Savéa ist mein Go-To Snack im Büro! Die Kombination aus Nüssen und Honig ist nicht nur lecker, sondern gibt mir auch langanhaltende Energie. Besonders der Mandelriegel hat es mir angetan – super knusprig und natürlich."
         }
       }
     ]

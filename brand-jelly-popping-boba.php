@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Locher Food"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maya L."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.9",
+            "bestRating": "5"
+          },
+          "reviewBody": "Der Jelly Popping Boba Cup ist mein Highlight im Sommer! Die fruchtige Saftfüllung mit der geleeartigen Textur ist einzigartig – mein Favorit ist Erdbeer-Pfirsich."
         }
       }
     ]

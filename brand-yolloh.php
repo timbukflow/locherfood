@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Yolloh"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lena R."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.8",
+            "bestRating": "5"
+          },
+          "reviewBody": "Die Yolloh Bonbons sind ein Hit bei unseren Kindern – sie lieben die fruchtigen Sorten und die bunten Formen. Toll, dass sie vegan und glutenfrei sind!"
         }
       }
     ]

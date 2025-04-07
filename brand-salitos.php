@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Salitos"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ricardo A."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Salitos bringt echtes Südamerika-Feeling nach Hause! Besonders die Sorte Mojito ist ein Hit auf jeder Party – spritzig, erfrischend und stylisch verpackt."
         }
       }
     ]

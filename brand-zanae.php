@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Zanae"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dimitra S."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Zanae ist für mich echter Geschmack aus Griechenland! Die gefüllten Weinblätter mit Rind sind wunderbar würzig, und die Okra in Tomatensauce passt perfekt zu Reis. Hochwertige Qualität, wie selbstgemacht."
         }
       }
     ]

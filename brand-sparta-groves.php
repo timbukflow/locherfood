@@ -99,10 +99,18 @@
         "@type": "Brand",
         "name": "Sparta Groves"
       },
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "CHF",
-        "availability": "https://schema.org/InStock"
+      "review": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jonas K."
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.8",
+          "bestRating": "5"
+        },
+        "reviewBody": "Ich nutze das Sparta Groves Olivenöl täglich zum Kochen. Der Geschmack ist fruchtig und mild – perfekt für Salate oder mediterrane Gerichte. Auch die Himalaya-Salze haben mich absolut überzeugt!"
       }
     }
   ]

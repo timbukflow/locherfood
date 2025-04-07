@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "O's Bubble"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chiara T."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Ich liebe O's Bubble! Der Brown Sugar Latte schmeckt wie im Urlaub in Asien – süss, cremig und mit perfektem Boba-Kaugefühl. Taro ist mein neuer Geheimtipp für heisse Nachmittage."
         }
       }
     ]

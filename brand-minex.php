@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Minex"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fatmir K."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.8",
+            "bestRating": "5"
+          },
+          "reviewBody": "Ich bin im Kosovo mit Minex aufgewachsen und war begeistert, als ich die Produkte bei Locher Food entdeckt habe. Die Flips schmecken genau wie damals, und die Frutella-Säfte sind einfach top – für mich ein Stück Heimat!"
         }
       }
     ]

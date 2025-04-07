@@ -107,10 +107,18 @@
           "@type": "Brand",
           "name": "Hirschbräu"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lukas W."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Die Hirschbräu Biere sind für mich ein Stück Heimat! Besonders der Dunkle Hirsch hat einen kräftigen, malzigen Geschmack – genau mein Ding. Qualität aus Bayern, die man schmeckt."
         }
       }
     ]

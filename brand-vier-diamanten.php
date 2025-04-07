@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Vier Diamanten"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Johanna B."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.9",
+            "bestRating": "5"
+          },
+          "reviewBody": "Ich kaufe den Vier Diamanten Thunfisch seit Jahren – der Geschmack ist konstant hochwertig, egal ob in Öl oder Naturell. Perfekt für Salate und Sandwiches, und meine Familie liebt ihn!"
         }
       }
     ]

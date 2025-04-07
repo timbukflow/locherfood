@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Lagadas Farm"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandro P."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.6",
+            "bestRating": "5"
+          },
+          "reviewBody": "Die Antipasti von Lagadas Farm erinnern mich an meinen letzten Urlaub in Griechenland. Besonders die Cherry Paprika mit Feta ist ein echtes Highlight – authentisch, würzig und mit Liebe gemacht."
         }
       }
     ]

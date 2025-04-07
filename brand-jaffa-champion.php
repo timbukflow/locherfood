@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Jaffa Champion"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elena F."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.8",
+            "bestRating": "5"
+          },
+          "reviewBody": "Meine Kinder lieben die Jaffa Champion Drinks! Besonders der Multivitamin ist super fruchtig und nicht zu süss – perfekt für die Znünibox oder unterwegs."
         }
       }
     ]

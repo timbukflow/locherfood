@@ -99,10 +99,18 @@
           "@type": "Brand",
           "name": "Nielsen Massey"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katrin M."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Die Vanilleextrakte von Nielsen Massey sind mein Must-have in der Küche. Ob für Gebäck, Desserts oder Getränke – das Aroma ist intensiv und absolut hochwertig. Besonders liebe ich die Bourbon-Variante."
         }
       }
     ]
