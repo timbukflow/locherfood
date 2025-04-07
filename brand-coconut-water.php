@@ -100,17 +100,25 @@
       },
       {
         "@type": "Product",
-        "name": "Coconut Water",
+        "name": "Coconut Water – Coco Drink natur 250 ml",
         "description": "100% natürliches Kokoswasser mit Kalium – die perfekte Erfrischung nach dem Sport.",
         "image": "https://locherfood.ch/img/locher-food-brand-coconut-water-start.jpg",
         "brand": {
           "@type": "Brand",
           "name": "Locher Food"
         },
-        "offers": {
-          "@type": "Offer",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock"
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David R."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4.9",
+            "bestRating": "5"
+          },
+          "reviewBody": "Das Coconut Water von Locher Food ist mein absoluter Favorit nach dem Workout. Der Geschmack ist natürlich, nicht zu süss – und die 250 ml Dose passt perfekt in meine Sporttasche. Klare Empfehlung für alle, die sich gesund und bewusst erfrischen möchten!"
         }
       }
     ]
