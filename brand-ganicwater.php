@@ -192,6 +192,14 @@
           </a>
         </div>
       </div>
+      <div class="factsheetcontainer">
+        <div class="factsheets">
+          <h2>Ganicwater Salesfolder</h2>
+          <a href="download/locher-food-ganic-salesfolder.pdf" target="_blank" download="locher-food-ganic-salesfolder.pdf">
+            Download (PDF)<span class="material-symbols-outlined">download</span>
+          </a>
+        </div>
+      </div>
       
     </section>
   </div>
