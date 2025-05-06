@@ -134,23 +134,23 @@
       <div class="productscontainer">
         <div class="productholder">
           <div data-aos="zoom-in" class="products">
-            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-taro-new.jpg" alt="Gummy Boba Latte Taro – Bubble Tea mit Tapiokaperlen aus Taiwan">
+            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-taro-25.jpg" alt="Gummy Boba Latte Taro – Bubble Tea mit Tapiokaperlen aus Taiwan">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Taro </h1>
             <p>470 ml Dose </p>
           </div>
           <div data-aos="zoom-in" class="products">
-            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar-new.jpg" alt="Gummy Boba Latte Brown Sugar – Bubble Tea von O's Bubble mit braunem Zucker">
+            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-latte-brown-sugar-25.jpg" alt="Gummy Boba Latte Brown Sugar – Bubble Tea von O's Bubble mit braunem Zucker">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Brown Sugar</h1>
             <p>470 ml Dose </p>
           </div>
-          <!-- <div data-aos="zoom-in" class="products">
-            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-thai-tea.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-thai-tea">
+          <div data-aos="zoom-in" class="products">
+            <img src="img/locher-food-produkt-bubble-tea-gummy-boba-thai-tea-25.jpg" alt="locher-food-produkt-bubble-tea-gummy-boba-thai-tea">
             <h3>Bubble Tea </h3>
             <h1>Gummy Boba Latte Thai Tea </h1>
             <p>470 ml Dose </p>
-          </div> -->
+          </div>
         </div>
       </div>
     </section>
